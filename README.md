@@ -7,6 +7,7 @@
 - GitHub Actions：定时拉取 ESPN 免费接口，对比上一次快照
 - ntfy（安卓 / iPhone）或 Bark（iPhone）：把通知推到手机，不需要 Telegram
 - PushPlus：走微信接收提醒，国内网络下比 ntfy 更稳
+- PushDeer：免费，安卓 / iPhone 都能用，适合国内网络
 - GitHub Pages：展示赛程、关注球队、最近推送记录
 - 数据源是 ESPN 公开接口，不需要 API Key
 
@@ -33,6 +34,7 @@ git push -u origin main
 | `BARK_KEYS` | Bark 设备密钥（Bark App 里复制），多个用逗号或空格分隔 |
 | `WEBHOOK_URLS` | Server酱 / PushPlus 等推送 URL，多个用逗号或空格分隔 |
 | `PUSHPLUS_TOKEN` | PushPlus 的 token，从 pushplus.plus 微信登录后复制 |
+| `PUSHDEER_KEY` | PushDeer 的 pushkey，从 PushDeer App 或官网复制 |
 
 4. 打开 Settings → Pages，Source 选 “Deploy from a branch”，Branch 选 `main`，目录选 `/ (root)`，Save
 5. 打开 Settings → Actions → General，把 Workflow permissions 改成 “Read and write permissions”

@@ -9,5 +9,6 @@
   "ntfy_topics": [],
   "bark_keys": [],
   "webhook_urls": [],
-  "pushplus_token": []
+  "pushplus_token": [],
+  "pushdeer_key": []
 }

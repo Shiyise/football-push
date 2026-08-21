@@ -199,7 +199,23 @@ async def _send_pushplus(client, token, title, body):
         return {"ok": False, "error": str(exc)}
 
 
-async def send_pushes(events, ntfy_topics, bark_keys, webhook_urls, pushplus_tokens=()):
+async def _send_pushdeer(client, key, title, body):
+    try:
+        resp = await client.post(
+            "https://api2.pushdeer.com/message/push",
+            data={"pushkey": key, "text": title, "desp": body},
+        )
+        try:
+            data = resp.json()
+            ok = resp.status_code < 400 and data.get("code") == 0
+            return {"ok": ok, "status": resp.status_code, "detail": str(data.get("code"))}
+        except ValueError:
+            return {"ok": resp.status_code < 400, "status": resp.status_code}
+    except Exception as exc:  # noqa: BLE001
+        return {"ok": False, "error": str(exc)}
+
+
+async def send_pushes(events, ntfy_topics, bark_keys, webhook_urls, pushplus_tokens=(), pushdeer_keys=()):
     results = []
     async with httpx.AsyncClient(timeout=20) as client:
         for kind, title, body, payload in events:
@@ -212,6 +228,8 @@ async def send_pushes(events, ntfy_topics, bark_keys, webhook_urls, pushplus_tok
                 results.append({"event": title, "channel": "Webhook", **await _send_webhook(client, url, title, body, event_id)})
             for token in pushplus_tokens:
                 results.append({"event": title, "channel": "PushPlus", **await _send_pushplus(client, token, title, body)})
+            for key in pushdeer_keys:
+                results.append({"event": title, "channel": "PushDeer", **await _send_pushdeer(client, key, title, body)})
     return results
 
 
@@ -322,6 +340,7 @@ async def run(source="espn", snapshots=None, send=False, site_file=None, config_
     bark_keys = split_env("BARK_KEYS") or [k for k in config.get("bark_keys", []) if k]
     webhook_urls = split_env("WEBHOOK_URLS") or [u for u in config.get("webhook_urls", []) if u]
     pushplus_tokens = split_env("PUSHPLUS_TOKEN") or [t for t in config.get("pushplus_token", []) if t]
+    pushdeer_keys = split_env("PUSHDEER_KEY") or [k for k in config.get("pushdeer_key", []) if k]
 
     matches, teams = await sources.fetch_all(source)
     by_key = {}
@@ -348,7 +367,7 @@ async def run(source="espn", snapshots=None, send=False, site_file=None, config_
 
     results = []
     if send and events:
-        results = await send_pushes(events, ntfy_topics, bark_keys, webhook_urls, pushplus_tokens)
+        results = await send_pushes(events, ntfy_topics, bark_keys, webhook_urls, pushplus_tokens, pushdeer_keys)
     elif events:
         for kind, title, body, _ in events:
             results.append({"event": title, "channel": "dry-run (未发送)", "ok": True})

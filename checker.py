@@ -355,8 +355,9 @@ async def main():
     print(summary)
     output = os.environ.get("GITHUB_OUTPUT")
     if output:
+        delimiter = "FUTBALL_ACTIONS_EOF"
         with open(output, "a", encoding="utf-8") as fh:
-            fh.write("summary<<'EOF'\n" + summary + "\nEOF\n")
+            fh.write(f"summary<<{delimiter}\n{summary}\n{delimiter}\n")
     return result
 
 

@@ -1,0 +1,12 @@
+{
+  "followed_teams": [
+    {"id": "359", "name": "Arsenal", "league": "EPL"},
+    {"id": "364", "name": "Liverpool", "league": "EPL"},
+    {"id": "360", "name": "Manchester United", "league": "EPL"},
+    {"id": "132", "name": "Bayern Munich", "league": "BL1"},
+    {"id": "124", "name": "Borussia Dortmund", "league": "BL1"}
+  ],
+  "ntfy_topics": [],
+  "bark_keys": [],
+  "webhook_urls": []
+}

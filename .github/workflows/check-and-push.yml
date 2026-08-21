@@ -1,0 +1,74 @@
+name: 盯比赛并推送
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+    inputs:
+      source:
+        description: "数据源 espn 或 mock（仅测试）"
+        required: false
+        default: "espn"
+        type: choice
+        options:
+          - espn
+          - mock
+      send:
+        description: "是否真的发送手机推送"
+        required: false
+        default: "true"
+        type: choice
+        options:
+          - "true"
+          - "false"
+      first_run:
+        description: "是否当作第一次运行（只建快照不发通知）"
+        required: false
+        default: "false"
+        type: boolean
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 拉取代码
+        uses: actions/checkout@v4
+
+      - name: 安装 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 安装依赖
+        run: pip install -r requirements.txt
+
+      - name: 对比赛程并推送
+        id: checker
+        env:
+          SOURCE: ${{ inputs.source || 'espn' }}
+          SEND_PUSH: ${{ inputs.send || 'true' }}
+          FIRST_RUN: ${{ inputs.first_run || 'false' }}
+          NTFY_TOPICS: ${{ secrets.NTFY_TOPICS }}
+          BARK_KEYS: ${{ secrets.BARK_KEYS }}
+          WEBHOOK_URLS: ${{ secrets.WEBHOOK_URLS }}
+        run: python checker.py
+
+      - name: 提交并推送生成的赛程页和快照
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html data/snapshot.json
+          if git diff --cached --quiet; then
+            echo "没有新变化，跳过提交"
+          else
+            git commit -m "chore: 更新赛程数据 [skip ci]"
+            git push
+          fi
+
+      - name: 显示推送结果
+        if: always()
+        run: echo "${{ steps.checker.outputs.summary }}"

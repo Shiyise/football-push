@@ -1,0 +1,302 @@
+{
+  "matches": {
+    "EPL|m1": {
+      "id": "m1",
+      "league": "EPL",
+      "league_name": "英格兰足球超级联赛",
+      "league_short": "英超",
+      "home": {
+        "id": "359",
+        "name": "Arsenal",
+        "short": "ARS",
+        "league": "EPL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
+      },
+      "away": {
+        "id": "367",
+        "name": "Tottenham Hotspur",
+        "short": "TOT",
+        "league": "EPL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png"
+      },
+      "time": "2026-08-20T18:00:00+00:00",
+      "status": "finished",
+      "detail": "已完赛",
+      "minute": null,
+      "home_score": 2,
+      "away_score": 1,
+      "venue": "Emirates Stadium",
+      "broadcast": "Sky Sports",
+      "link": ""
+    },
+    "EPL|m2": {
+      "id": "m2",
+      "league": "EPL",
+      "league_name": "英格兰足球超级联赛",
+      "league_short": "英超",
+      "home": {
+        "id": "364",
+        "name": "Liverpool",
+        "short": "LIV",
+        "league": "EPL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png"
+      },
+      "away": {
+        "id": "382",
+        "name": "Manchester City",
+        "short": "MCI",
+        "league": "EPL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png"
+      },
+      "time": "2026-08-21T20:00:00+00:00",
+      "status": "live",
+      "detail": "进行中 67'",
+      "minute": 67,
+      "home_score": 1,
+      "away_score": 1,
+      "venue": "Anfield",
+      "broadcast": "TNT Sports",
+      "link": ""
+    },
+    "EPL|m3": {
+      "id": "m3",
+      "league": "EPL",
+      "league_name": "英格兰足球超级联赛",
+      "league_short": "英超",
+      "home": {
+        "id": "363",
+        "name": "Chelsea",
+        "short": "CHE",
+        "league": "EPL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png"
+      },
+      "away": {
+        "id": "2235",
+        "name": "Coventry City",
+        "short": "COV",
+        "league": "EPL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2235.png"
+      },
+      "time": "2026-08-23T14:00:00+00:00",
+      "status": "scheduled",
+      "detail": "未开赛",
+      "minute": null,
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "Stamford Bridge",
+      "broadcast": "Sky Sports",
+      "link": ""
+    },
+    "EPL|m4": {
+      "id": "m4",
+      "league": "EPL",
+      "league_name": "英格兰足球超级联赛",
+      "league_short": "英超",
+      "home": {
+        "id": "359",
+        "name": "Arsenal",
+        "short": "ARS",
+        "league": "EPL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
+      },
+      "away": {
+        "id": "364",
+        "name": "Liverpool",
+        "short": "LIV",
+        "league": "EPL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png"
+      },
+      "time": "2026-08-26T19:00:00+00:00",
+      "status": "scheduled",
+      "detail": "未开赛",
+      "minute": null,
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "Emirates Stadium",
+      "broadcast": "BBC",
+      "link": ""
+    },
+    "BL1|m5": {
+      "id": "m5",
+      "league": "BL1",
+      "league_name": "德国足球甲级联赛",
+      "league_short": "德甲",
+      "home": {
+        "id": "132",
+        "name": "Bayern Munich",
+        "short": "MUN",
+        "league": "BL1",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png"
+      },
+      "away": {
+        "id": "131",
+        "name": "Bayer Leverkusen",
+        "short": "B04",
+        "league": "BL1",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png"
+      },
+      "time": "2026-08-24T18:00:00+00:00",
+      "status": "scheduled",
+      "detail": "未开赛",
+      "minute": null,
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "Allianz Arena",
+      "broadcast": "DAZN",
+      "link": ""
+    },
+    "BL1|m6": {
+      "id": "m6",
+      "league": "BL1",
+      "league_name": "德国足球甲级联赛",
+      "league_short": "德甲",
+      "home": {
+        "id": "124",
+        "name": "Borussia Dortmund",
+        "short": "DOR",
+        "league": "BL1",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png"
+      },
+      "away": {
+        "id": "133",
+        "name": "RB Leipzig",
+        "short": "RBL",
+        "league": "BL1",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png"
+      },
+      "time": "2026-08-25T16:00:00+00:00",
+      "status": "scheduled",
+      "detail": "未开赛",
+      "minute": null,
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "Signal Iduna Park",
+      "broadcast": "Sky Sports DE",
+      "link": ""
+    },
+    "BL1|m7": {
+      "id": "m7",
+      "league": "BL1",
+      "league_name": "德国足球甲级联赛",
+      "league_short": "德甲",
+      "home": {
+        "id": "598",
+        "name": "1. FC Union Berlin",
+        "short": "FCU",
+        "league": "BL1",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png"
+      },
+      "away": {
+        "id": "167",
+        "name": "VfB Stuttgart",
+        "short": "STU",
+        "league": "BL1",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png"
+      },
+      "time": "2026-08-27T18:00:00+00:00",
+      "status": "scheduled",
+      "detail": "未开赛",
+      "minute": null,
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "Stadion An der Alten Försterei",
+      "broadcast": "DAZN",
+      "link": ""
+    }
+  },
+  "teams": [
+    {
+      "id": "359",
+      "name": "Arsenal",
+      "short": "ARS",
+      "league": "EPL",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
+    },
+    {
+      "id": "364",
+      "name": "Liverpool",
+      "short": "LIV",
+      "league": "EPL",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png"
+    },
+    {
+      "id": "382",
+      "name": "Manchester City",
+      "short": "MCI",
+      "league": "EPL",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png"
+    },
+    {
+      "id": "367",
+      "name": "Tottenham Hotspur",
+      "short": "TOT",
+      "league": "EPL",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png"
+    },
+    {
+      "id": "363",
+      "name": "Chelsea",
+      "short": "CHE",
+      "league": "EPL",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png"
+    },
+    {
+      "id": "2235",
+      "name": "Coventry City",
+      "short": "COV",
+      "league": "EPL",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2235.png"
+    },
+    {
+      "id": "132",
+      "name": "Bayern Munich",
+      "short": "MUN",
+      "league": "BL1",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png"
+    },
+    {
+      "id": "124",
+      "name": "Borussia Dortmund",
+      "short": "DOR",
+      "league": "BL1",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png"
+    },
+    {
+      "id": "131",
+      "name": "Bayer Leverkusen",
+      "short": "B04",
+      "league": "BL1",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png"
+    },
+    {
+      "id": "133",
+      "name": "RB Leipzig",
+      "short": "RBL",
+      "league": "BL1",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png"
+    },
+    {
+      "id": "598",
+      "name": "1. FC Union Berlin",
+      "short": "FCU",
+      "league": "BL1",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png"
+    },
+    {
+      "id": "167",
+      "name": "VfB Stuttgart",
+      "short": "STU",
+      "league": "BL1",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png"
+    }
+  ],
+  "followed": [
+    "124",
+    "132",
+    "359",
+    "360",
+    "364"
+  ],
+  "notifications": [],
+  "updated": "2026-08-21T10:10:36.636588+00:00"
+}

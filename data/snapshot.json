@@ -1119,6 +1119,13 @@
   ],
   "notifications": [
     {
+      "time": "8月22日 07:50",
+      "kind": "reminder",
+      "title": "开赛提醒 英超",
+      "body": "Hull City vs Manchester United\n英格兰足球超级联赛 · 8月22日 19:30\nThe MKM Stadium · USA Net",
+      "key": "EPL|401879322"
+    },
+    {
       "time": "8月21日 21:59",
       "kind": "reminder",
       "title": "开赛提醒 英超",
@@ -1126,5 +1133,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-08-21T22:54:53.039141+00:00"
+  "updated": "2026-08-21T23:51:00.601425+00:00"
 }

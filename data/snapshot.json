@@ -20,14 +20,14 @@
         "league": "EPL"
       },
       "time": "2026-08-21T19:00Z",
-      "status": "finished",
-      "detail": "FT",
-      "minute": null,
-      "home_score": 3,
+      "status": "live",
+      "detail": "进行中 0'",
+      "minute": 0,
+      "home_score": 2,
       "away_score": 0,
       "venue": "Emirates Stadium",
       "broadcast": "USA Net",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879301/coventry-city-arsenal"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879301"
     },
     "EPL|401879322": {
       "id": "401879322",
@@ -1126,5 +1126,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-08-21T20:54:47.455678+00:00"
+  "updated": "2026-08-21T21:53:09.479413+00:00"
 }

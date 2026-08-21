@@ -1117,6 +1117,14 @@
     "360",
     "364"
   ],
-  "notifications": [],
-  "updated": "2026-08-21T11:13:31.703572+00:00"
+  "notifications": [
+    {
+      "time": "8月21日 21:59",
+      "kind": "reminder",
+      "title": "开赛提醒 英超",
+      "body": "Arsenal vs Coventry City\n英格兰足球超级联赛 · 8月22日 03:00\nEmirates Stadium · USA Net",
+      "key": "EPL|401879301"
+    }
+  ],
+  "updated": "2026-08-21T13:59:57.009626+00:00"
 }

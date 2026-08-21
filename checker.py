@@ -182,7 +182,24 @@ async def _send_webhook(client, url, title, body, event_id):
         return {"ok": False, "error": str(exc)}
 
 
-async def send_pushes(events, ntfy_topics, bark_keys, webhook_urls):
+async def _send_pushplus(client, token, title, body):
+    try:
+        resp = await client.post(
+            "https://www.pushplus.plus/send",
+            data={"token": token, "title": title, "content": body},
+        )
+        try:
+            data = resp.json()
+            code = data.get("code")
+            ok = resp.status_code < 400 and code in (200, 201)
+            return {"ok": ok, "status": resp.status_code, "detail": str(code)}
+        except ValueError:
+            return {"ok": resp.status_code < 400, "status": resp.status_code}
+    except Exception as exc:  # noqa: BLE001
+        return {"ok": False, "error": str(exc)}
+
+
+async def send_pushes(events, ntfy_topics, bark_keys, webhook_urls, pushplus_tokens=()):
     results = []
     async with httpx.AsyncClient(timeout=20) as client:
         for kind, title, body, payload in events:
@@ -193,6 +210,8 @@ async def send_pushes(events, ntfy_topics, bark_keys, webhook_urls):
                 results.append({"event": title, "channel": "Bark", **await _send_bark(client, key, title, body)})
             for url in webhook_urls:
                 results.append({"event": title, "channel": "Webhook", **await _send_webhook(client, url, title, body, event_id)})
+            for token in pushplus_tokens:
+                results.append({"event": title, "channel": "PushPlus", **await _send_pushplus(client, token, title, body)})
     return results
 
 
@@ -302,6 +321,7 @@ async def run(source="espn", snapshots=None, send=False, site_file=None, config_
     ntfy_topics = split_env("NTFY_TOPICS") or [t for t in config.get("ntfy_topics", []) if t]
     bark_keys = split_env("BARK_KEYS") or [k for k in config.get("bark_keys", []) if k]
     webhook_urls = split_env("WEBHOOK_URLS") or [u for u in config.get("webhook_urls", []) if u]
+    pushplus_tokens = split_env("PUSHPLUS_TOKEN") or [t for t in config.get("pushplus_token", []) if t]
 
     matches, teams = await sources.fetch_all(source)
     by_key = {}
@@ -328,7 +348,7 @@ async def run(source="espn", snapshots=None, send=False, site_file=None, config_
 
     results = []
     if send and events:
-        results = await send_pushes(events, ntfy_topics, bark_keys, webhook_urls)
+        results = await send_pushes(events, ntfy_topics, bark_keys, webhook_urls, pushplus_tokens)
     elif events:
         for kind, title, body, _ in events:
             results.append({"event": title, "channel": "dry-run (未发送)", "ok": True})

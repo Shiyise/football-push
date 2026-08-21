@@ -54,6 +54,7 @@ jobs:
           NTFY_TOPICS: ${{ secrets.NTFY_TOPICS }}
           BARK_KEYS: ${{ secrets.BARK_KEYS }}
           WEBHOOK_URLS: ${{ secrets.WEBHOOK_URLS }}
+          PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
         run: python checker.py
 
       - name: 提交并推送生成的赛程页和快照

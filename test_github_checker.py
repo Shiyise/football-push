@@ -3,7 +3,9 @@ import asyncio
 import json
 import tempfile
 import unittest
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from unittest import mock
 
 import checker
 
@@ -49,33 +51,52 @@ class CheckerTests(unittest.TestCase):
         self.assertEqual(events[0][0], "score")
         self.assertIn("2:1", events[0][2])
 
-    def test_second_run_records_notification(self):
+    def test_reminder_fires_once_before_kickoff(self):
         snapshots = {}
         asyncio.run(
             checker.run(
                 source="mock",
                 snapshots=snapshots,
+                send=False,
                 site_file=self.tmp / "a.html",
                 config_file=Path(__file__).parent / "config.json",
             )
         )
-        old_match = snapshots["matches"]["EPL|m2"]
-        new_match = json.loads(json.dumps(old_match))
-        new_match["home_score"] = 2
-        new_match["minute"] = 81
-        snapshots["matches"]["EPL|m2"] = new_match
-        result = asyncio.run(
-            checker.run(
-                source="mock",
-                snapshots=snapshots,
-                send=False,
-                site_file=self.tmp / "b.html",
-                config_file=Path(__file__).parent / "config.json",
+        base = json.loads(json.dumps(snapshots["matches"]["EPL|m4"]))
+        upcoming = dict(base)
+        upcoming["id"] = "m-reminder"
+        upcoming["time"] = (datetime.now(timezone.utc) + timedelta(hours=11)).isoformat()
+
+        async def fake_fetch(source, client=None):
+            matches, teams = checker.sources.mock_matches(), checker.sources.mock_teams()
+            matches.append(upcoming)
+            return matches, teams
+
+        with mock.patch("checker.sources.fetch_all", side_effect=fake_fetch):
+            first = asyncio.run(
+                checker.run(
+                    source="mock",
+                    snapshots=snapshots,
+                    send=False,
+                    site_file=self.tmp / "b.html",
+                    config_file=Path(__file__).parent / "config.json",
+                )
             )
-        )
-        self.assertEqual(result["events"], 1)
-        self.assertEqual(result["notifications"], 1)
-        self.assertEqual(snapshots["notifications"][0]["kind"], "score")
+            self.assertEqual(first["events"], 1)
+            self.assertEqual(first["notifications"], 1)
+            self.assertEqual(snapshots["notifications"][0]["kind"], "reminder")
+            self.assertEqual(snapshots["notifications"][0]["key"], "EPL|m-reminder")
+
+            second = asyncio.run(
+                checker.run(
+                    source="mock",
+                    snapshots=snapshots,
+                    send=False,
+                    site_file=self.tmp / "c.html",
+                    config_file=Path(__file__).parent / "config.json",
+                )
+            )
+            self.assertEqual(second["events"], 0)
 
 
 if __name__ == "__main__":

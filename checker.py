@@ -19,6 +19,7 @@ SNAPSHOT = DATA_DIR / "snapshot.json"
 SITE = BASE_DIR / "index.html"
 CONFIG = BASE_DIR / "config.json"
 HK = timezone(timedelta(hours=8))
+REMINDER_HOURS = 12
 
 
 def load_json(path, default):
@@ -70,6 +71,28 @@ def _followed_names(match, followed):
         if team["id"] in followed:
             names.append(team["name"])
     return names
+
+
+def _reminder_event(match, followed):
+    if match.get("status") != "scheduled" or not _followed_names(match, followed):
+        return None
+    try:
+        dt = datetime.fromisoformat(match["time"].replace("Z", "+00:00")).astimezone(HK)
+    except (ValueError, TypeError):
+        return None
+    remaining = dt - datetime.now(HK)
+    if remaining <= timedelta(0) or remaining > timedelta(hours=REMINDER_HOURS):
+        return None
+    body = f"{_line(match)}\n{match['league_name']} · {_fmt_hk(match['time'])}"
+    note = " · ".join(x for x in (match.get("venue"), match.get("broadcast")) if x)
+    if note:
+        body += f"\n{note}"
+    key = f"{match['league']}|{match['id']}"
+    return ("reminder", f"开赛提醒 {match['league_short']}", body, {"match": match, "key": key})
+
+
+def _already_reminded(notifications, key):
+    return any(n.get("kind") == "reminder" and n.get("key") == key for n in notifications)
 
 
 def _result_note(match, followed):
@@ -286,21 +309,20 @@ async def run(source="espn", snapshots=None, send=False, site_file=None, config_
         by_key[f"{m['league']}|{m['id']}"] = m
 
     old = {k: v for k, v in ((snapshots or {}).get("matches") or {}).items()}
+    notifications = list((snapshots or {}).get("notifications", []))
     events = []
     if old and not env_bool("FIRST_RUN", False):
         for key, new in by_key.items():
-            prev = old.get(key)
-            if prev is None:
-                events.extend(_new_match_events(new, followed_ids))
-            else:
-                events.extend(_events_for(prev, new, followed_ids))
+            event = _reminder_event(new, followed_ids)
+            if event and not _already_reminded(notifications, key):
+                events.append(event)
     else:
         old = {}
 
-    notifications = list((snapshots or {}).get("notifications", []))
     new_notifications = []
     for kind, title, body, payload in events:
-        new_notifications.append({"time": _fmt_hk(datetime.now(timezone.utc).isoformat()), "kind": kind, "title": title, "body": body})
+        key = payload.get("key", "") if payload and kind == "reminder" else ""
+        new_notifications.append({"time": _fmt_hk(datetime.now(timezone.utc).isoformat()), "kind": kind, "title": title, "body": body, "key": key})
     notifications = new_notifications + notifications
     notifications = notifications[:50]
 

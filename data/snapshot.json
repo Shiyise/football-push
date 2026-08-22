@@ -49,14 +49,14 @@
         "league": "EPL"
       },
       "time": "2026-08-22T11:30Z",
-      "status": "scheduled",
-      "detail": "Sat, August 22nd at 7:30 AM EDT",
-      "minute": null,
-      "home_score": 0,
+      "status": "live",
+      "detail": "进行中 0'",
+      "minute": 0,
+      "home_score": 1,
       "away_score": 0,
       "venue": "The MKM Stadium",
       "broadcast": "USA Net",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879322/manchester-united-hull-city"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879322"
     },
     "EPL|401879300": {
       "id": "401879300",
@@ -1191,5 +1191,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-08-22T11:01:16.758993+00:00"
+  "updated": "2026-08-22T11:58:07.371419+00:00"
 }

@@ -580,6 +580,35 @@
       "broadcast": "",
       "link": "https://www.espn.com/soccer/match/_/gameId/401879295/arsenal-aston-villa"
     },
+    "EPL|401879288": {
+      "id": "401879288",
+      "league": "EPL",
+      "league_name": "英格兰足球超级联赛",
+      "league_short": "英超",
+      "home": {
+        "id": "373",
+        "name": "Ipswich Town",
+        "short": "Ipswich",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
+        "league": "EPL"
+      },
+      "away": {
+        "id": "364",
+        "name": "Liverpool",
+        "short": "Liverpool",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+        "league": "EPL"
+      },
+      "time": "2026-09-04T19:00Z",
+      "status": "scheduled",
+      "detail": "Fri, September 4th at 3:00 PM EDT",
+      "minute": null,
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "Portman Road",
+      "broadcast": "",
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879288/liverpool-ipswich-town"
+    },
     "BL1|401884817": {
       "id": "401884817",
       "league": "BL1",
@@ -840,6 +869,35 @@
       "venue": "WWK Arena",
       "broadcast": "",
       "link": "https://www.espn.com/soccer/match/_/gameId/401884813/schalke-04-fc-augsburg"
+    },
+    "BL1|401884808": {
+      "id": "401884808",
+      "league": "BL1",
+      "league_name": "德国足球甲级联赛",
+      "league_short": "德甲",
+      "home": {
+        "id": "134",
+        "name": "VfB Stuttgart",
+        "short": "Stuttgart",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+        "league": "BL1"
+      },
+      "away": {
+        "id": "122",
+        "name": "FC Cologne",
+        "short": "Cologne",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
+        "league": "BL1"
+      },
+      "time": "2026-09-04T18:30Z",
+      "status": "scheduled",
+      "detail": "Fri, September 4th at 2:30 PM EDT",
+      "minute": null,
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "MHPArena",
+      "broadcast": "",
+      "link": "https://www.espn.com/soccer/match/_/gameId/401884808/fc-cologne-vfb-stuttgart"
     }
   },
   "teams": [
@@ -1133,5 +1191,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-08-21T23:51:00.601425+00:00"
+  "updated": "2026-08-22T03:08:01.522051+00:00"
 }

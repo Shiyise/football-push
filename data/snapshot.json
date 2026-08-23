@@ -194,14 +194,14 @@
         "league": "EPL"
       },
       "time": "2026-08-23T13:00Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
+      "status": "finished",
+      "detail": "FT",
+      "minute": null,
       "home_score": 4,
       "away_score": 0,
       "venue": "American Express Stadium",
       "broadcast": "Peacock",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879297"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879297/aston-villa-brighton-hove-albion"
     },
     "EPL|401879320": {
       "id": "401879320",
@@ -223,14 +223,14 @@
         "league": "EPL"
       },
       "time": "2026-08-23T13:00Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
-      "home_score": 0,
+      "status": "finished",
+      "detail": "FT",
+      "minute": null,
+      "home_score": 2,
       "away_score": 1,
       "venue": "Etihad Stadium",
       "broadcast": "USA Net",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879320"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879320/afc-bournemouth-manchester-city"
     },
     "EPL|401879319": {
       "id": "401879319",
@@ -252,14 +252,14 @@
         "league": "EPL"
       },
       "time": "2026-08-23T15:30Z",
-      "status": "scheduled",
-      "detail": "Sun, August 23rd at 11:30 AM EDT",
-      "minute": null,
-      "home_score": 0,
+      "status": "live",
+      "detail": "进行中 0'",
+      "minute": 0,
+      "home_score": 1,
       "away_score": 0,
       "venue": "St. James' Park",
       "broadcast": "USA Net",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879319/liverpool-newcastle-united"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879319"
     },
     "EPL|401879318": {
       "id": "401879318",
@@ -1575,5 +1575,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-08-23T16:56:28.687606+00:00"
+  "updated": "2026-08-23T17:42:12.731976+00:00"
 }

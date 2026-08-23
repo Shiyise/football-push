@@ -252,14 +252,14 @@
         "league": "EPL"
       },
       "time": "2026-08-23T15:30Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
+      "status": "finished",
+      "detail": "FT",
+      "minute": null,
       "home_score": 2,
-      "away_score": 1,
+      "away_score": 2,
       "venue": "St. James' Park",
       "broadcast": "USA Net",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879319"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879319/liverpool-newcastle-united"
     },
     "EPL|401879318": {
       "id": "401879318",
@@ -1575,5 +1575,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-08-23T19:01:43.624371+00:00"
+  "updated": "2026-08-23T19:55:36.718473+00:00"
 }

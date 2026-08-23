@@ -255,8 +255,8 @@
       "status": "live",
       "detail": "进行中 0'",
       "minute": 0,
-      "home_score": 1,
-      "away_score": 0,
+      "home_score": 2,
+      "away_score": 1,
       "venue": "St. James' Park",
       "broadcast": "USA Net",
       "link": "https://www.espn.com/soccer/match/_/gameId/401879319"
@@ -1575,5 +1575,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-08-23T17:42:12.731976+00:00"
+  "updated": "2026-08-23T19:01:43.624371+00:00"
 }

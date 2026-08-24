@@ -252,14 +252,14 @@
         "league": "EPL"
       },
       "time": "2026-08-24T19:00Z",
-      "status": "scheduled",
-      "detail": "Mon, August 24th at 3:00 PM EDT",
-      "minute": null,
-      "home_score": 0,
-      "away_score": 0,
+      "status": "live",
+      "detail": "进行中 0'",
+      "minute": 0,
+      "home_score": 1,
+      "away_score": 1,
       "venue": "Craven Cottage",
       "broadcast": "USA Net",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879318/chelsea-fulham"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879318"
     },
     "EPL|401879294": {
       "id": "401879294",
@@ -1662,5 +1662,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-08-24T19:40:57.577338+00:00"
+  "updated": "2026-08-24T21:04:35.332490+00:00"
 }

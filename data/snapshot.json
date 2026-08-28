@@ -1,34 +1,5 @@
 {
   "matches": {
-    "EPL|401879318": {
-      "id": "401879318",
-      "league": "EPL",
-      "league_name": "英格兰足球超级联赛",
-      "league_short": "英超",
-      "home": {
-        "id": "370",
-        "name": "Fulham",
-        "short": "Fulham",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
-        "league": "EPL"
-      },
-      "away": {
-        "id": "363",
-        "name": "Chelsea",
-        "short": "Chelsea",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-        "league": "EPL"
-      },
-      "time": "2026-08-24T19:00Z",
-      "status": "finished",
-      "detail": "FT",
-      "minute": null,
-      "home_score": 2,
-      "away_score": 3,
-      "venue": "Craven Cottage",
-      "broadcast": "USA Net",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879318/chelsea-fulham"
-    },
     "EPL|401879294": {
       "id": "401879294",
       "league": "EPL",
@@ -761,8 +732,8 @@
       "league_short": "德甲",
       "home": {
         "id": "10388",
-        "name": "SV Elversberg",
-        "short": "Elversberg",
+        "name": "SV ELVERSBERG",
+        "short": "ELVERSBERG",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10388.png",
         "league": "BL1"
       },
@@ -942,8 +913,8 @@
       },
       "away": {
         "id": "10388",
-        "name": "SV Elversberg",
-        "short": "Elversberg",
+        "name": "SV ELVERSBERG",
+        "short": "ELVERSBERG",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10388.png",
         "league": "BL1"
       },
@@ -1366,8 +1337,8 @@
     },
     {
       "id": "10388",
-      "name": "SV Elversberg",
-      "short": "Elversberg",
+      "name": "SV ELVERSBERG",
+      "short": "ELVERSBERG",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10388.png",
       "league": "BL1"
     },
@@ -1430,5 +1401,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-08-26T14:25:35.655909+00:00"
+  "updated": "2026-08-28T00:51:27.348015+00:00"
 }

@@ -1380,6 +1380,13 @@
   ],
   "notifications": [
     {
+      "time": "8月29日 07:32",
+      "kind": "reminder",
+      "title": "开赛提醒 英超",
+      "body": "Liverpool vs Nottingham Forest\n英格兰足球超级联赛 · 8月29日 19:30\nAnfield · USA Net",
+      "key": "EPL|401879314"
+    },
+    {
       "time": "8月23日 11:30",
       "kind": "reminder",
       "title": "开赛提醒 英超",
@@ -1401,5 +1408,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-08-28T23:02:19.722033+00:00"
+  "updated": "2026-08-28T23:32:17.157000+00:00"
 }

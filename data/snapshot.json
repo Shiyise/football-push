@@ -78,14 +78,14 @@
         "league": "EPL"
       },
       "time": "2026-08-29T14:00Z",
-      "status": "finished",
-      "detail": "FT",
-      "minute": null,
+      "status": "live",
+      "detail": "进行中 0'",
+      "minute": 0,
       "home_score": 1,
-      "away_score": 1,
+      "away_score": 0,
       "venue": "Vitality Stadium",
       "broadcast": "Peacock",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879296/everton-afc-bournemouth"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879296"
     },
     "EPL|401879316": {
       "id": "401879316",
@@ -107,14 +107,14 @@
         "league": "EPL"
       },
       "time": "2026-08-29T14:00Z",
-      "status": "finished",
-      "detail": "FT",
-      "minute": null,
+      "status": "live",
+      "detail": "进行中 0'",
+      "minute": 0,
       "home_score": 0,
-      "away_score": 1,
+      "away_score": 0,
       "venue": "Coventry Building Society Arena",
       "broadcast": "USA Net",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879316/hull-city-coventry-city"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879316"
     },
     "EPL|401879312": {
       "id": "401879312",
@@ -1444,5 +1444,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-08-29T16:32:31.882997+00:00"
+  "updated": "2026-08-29T17:02:48.141574+00:00"
 }

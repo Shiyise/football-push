@@ -136,14 +136,14 @@
         "league": "EPL"
       },
       "time": "2026-08-29T16:30Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
+      "status": "finished",
+      "detail": "FT",
+      "minute": null,
       "home_score": 0,
       "away_score": 2,
       "venue": "Tottenham Hotspur Stadium",
       "broadcast": "NBC",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879312"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879312/newcastle-united-tottenham-hotspur"
     },
     "EPL|401879317": {
       "id": "401879317",
@@ -774,14 +774,14 @@
         "league": "BL1"
       },
       "time": "2026-08-29T16:30Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
+      "status": "finished",
+      "detail": "FT",
+      "minute": null,
       "home_score": 2,
       "away_score": 0,
       "venue": "Signal Iduna Park",
       "broadcast": "USA Net",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401884816"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401884816/hamburg-sv-borussia-dortmund"
     },
     "BL1|401884814": {
       "id": "401884814",
@@ -1444,5 +1444,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-08-29T19:02:19.402886+00:00"
+  "updated": "2026-08-29T19:32:24.465044+00:00"
 }

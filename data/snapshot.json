@@ -1409,6 +1409,13 @@
   ],
   "notifications": [
     {
+      "time": "8月29日 12:32",
+      "kind": "reminder",
+      "title": "开赛提醒 德甲",
+      "body": "Borussia Dortmund vs Hamburg SV\n德国足球甲级联赛 · 8月30日 00:30\nSignal Iduna Park · USA Net",
+      "key": "BL1|401884816"
+    },
+    {
       "time": "8月29日 07:32",
       "kind": "reminder",
       "title": "开赛提醒 英超",
@@ -1437,5 +1444,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-08-29T04:02:20.358933+00:00"
+  "updated": "2026-08-29T04:32:33.496885+00:00"
 }

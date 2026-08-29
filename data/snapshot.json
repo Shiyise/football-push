@@ -78,14 +78,14 @@
         "league": "EPL"
       },
       "time": "2026-08-29T14:00Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
+      "status": "finished",
+      "detail": "FT",
+      "minute": null,
       "home_score": 1,
-      "away_score": 0,
+      "away_score": 1,
       "venue": "Vitality Stadium",
       "broadcast": "Peacock",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879296"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879296/everton-afc-bournemouth"
     },
     "EPL|401879316": {
       "id": "401879316",
@@ -107,14 +107,14 @@
         "league": "EPL"
       },
       "time": "2026-08-29T14:00Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
+      "status": "finished",
+      "detail": "FT",
+      "minute": null,
       "home_score": 0,
-      "away_score": 0,
+      "away_score": 1,
       "venue": "Coventry Building Society Arena",
       "broadcast": "USA Net",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879316"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879316/hull-city-coventry-city"
     },
     "EPL|401879312": {
       "id": "401879312",
@@ -136,14 +136,14 @@
         "league": "EPL"
       },
       "time": "2026-08-29T16:30Z",
-      "status": "scheduled",
-      "detail": "Sat, August 29th at 12:30 PM EDT",
-      "minute": null,
+      "status": "live",
+      "detail": "进行中 0'",
+      "minute": 0,
       "home_score": 0,
       "away_score": 0,
       "venue": "Tottenham Hotspur Stadium",
       "broadcast": "NBC",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879312/newcastle-united-tottenham-hotspur"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879312"
     },
     "EPL|401879317": {
       "id": "401879317",
@@ -774,14 +774,14 @@
         "league": "BL1"
       },
       "time": "2026-08-29T16:30Z",
-      "status": "scheduled",
-      "detail": "Sat, August 29th at 12:30 PM EDT",
-      "minute": null,
+      "status": "live",
+      "detail": "进行中 0'",
+      "minute": 0,
       "home_score": 0,
       "away_score": 0,
       "venue": "Signal Iduna Park",
       "broadcast": "USA Net",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401884816/hamburg-sv-borussia-dortmund"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401884816"
     },
     "BL1|401884814": {
       "id": "401884814",
@@ -1444,5 +1444,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-08-29T17:02:48.141574+00:00"
+  "updated": "2026-08-29T17:32:44.298246+00:00"
 }

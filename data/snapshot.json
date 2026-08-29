@@ -78,14 +78,14 @@
         "league": "EPL"
       },
       "time": "2026-08-29T14:00Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
-      "home_score": 0,
-      "away_score": 0,
+      "status": "finished",
+      "detail": "FT",
+      "minute": null,
+      "home_score": 1,
+      "away_score": 1,
       "venue": "Vitality Stadium",
       "broadcast": "Peacock",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879296"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879296/everton-afc-bournemouth"
     },
     "EPL|401879316": {
       "id": "401879316",
@@ -107,14 +107,14 @@
         "league": "EPL"
       },
       "time": "2026-08-29T14:00Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
+      "status": "finished",
+      "detail": "FT",
+      "minute": null,
       "home_score": 0,
-      "away_score": 0,
+      "away_score": 1,
       "venue": "Coventry Building Society Arena",
       "broadcast": "USA Net",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879316"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879316/hull-city-coventry-city"
     },
     "EPL|401879312": {
       "id": "401879312",
@@ -629,14 +629,14 @@
         "league": "BL1"
       },
       "time": "2026-08-29T13:30Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
-      "home_score": 1,
-      "away_score": 2,
+      "status": "finished",
+      "detail": "FT",
+      "minute": null,
+      "home_score": 3,
+      "away_score": 3,
       "venue": "Stadion An der Alten Försterei",
       "broadcast": "Fandango",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401884811"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401884811/eintracht-frankfurt-1-fc-union-berlin"
     },
     "BL1|401884810": {
       "id": "401884810",
@@ -658,14 +658,14 @@
         "league": "BL1"
       },
       "time": "2026-08-29T13:30Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
-      "home_score": 0,
-      "away_score": 1,
+      "status": "finished",
+      "detail": "FT",
+      "minute": null,
+      "home_score": 3,
+      "away_score": 2,
       "venue": "RheinEnergieStadion",
       "broadcast": "Fandango",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401884810"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401884810/tsg-hoffenheim-fc-cologne"
     },
     "BL1|401884812": {
       "id": "401884812",
@@ -687,14 +687,14 @@
         "league": "BL1"
       },
       "time": "2026-08-29T13:30Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
+      "status": "finished",
+      "detail": "FT",
+      "minute": null,
       "home_score": 0,
       "away_score": 0,
       "venue": "MEWA ARENA",
       "broadcast": "Fandango",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401884812"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401884812/sc-paderborn-07-mainz"
     },
     "BL1|401884815": {
       "id": "401884815",
@@ -716,14 +716,14 @@
         "league": "BL1"
       },
       "time": "2026-08-29T13:30Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
-      "home_score": 1,
+      "status": "finished",
+      "detail": "FT",
+      "minute": null,
+      "home_score": 3,
       "away_score": 0,
       "venue": "Red Bull Arena",
       "broadcast": "Fandango",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401884815"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401884815/borussia-monchengladbach-rb-leipzig"
     },
     "BL1|401884809": {
       "id": "401884809",
@@ -745,14 +745,14 @@
         "league": "BL1"
       },
       "time": "2026-08-29T13:30Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
-      "home_score": 2,
-      "away_score": 0,
+      "status": "finished",
+      "detail": "FT",
+      "minute": null,
+      "home_score": 3,
+      "away_score": 2,
       "venue": "URSAPHARM-Arena an der Kaiserlinde",
       "broadcast": "Fandango",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401884809"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401884809/bayer-leverkusen-sv-elversberg"
     },
     "BL1|401884816": {
       "id": "401884816",
@@ -1444,5 +1444,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-08-29T16:02:34.256522+00:00"
+  "updated": "2026-08-29T16:32:31.882997+00:00"
 }

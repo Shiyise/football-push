@@ -140,7 +140,7 @@
       "detail": "进行中 0'",
       "minute": 0,
       "home_score": 0,
-      "away_score": 0,
+      "away_score": 2,
       "venue": "Tottenham Hotspur Stadium",
       "broadcast": "NBC",
       "link": "https://www.espn.com/soccer/match/_/gameId/401879312"
@@ -1444,5 +1444,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-08-29T18:32:28.868888+00:00"
+  "updated": "2026-08-29T19:02:19.402886+00:00"
 }

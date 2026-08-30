@@ -168,7 +168,7 @@
       "status": "live",
       "detail": "进行中 0'",
       "minute": 0,
-      "home_score": 0,
+      "home_score": 2,
       "away_score": 0,
       "venue": "Stamford Bridge",
       "broadcast": "Peacock",
@@ -1006,14 +1006,14 @@
         "league": "BL1"
       },
       "time": "2026-08-30T13:30Z",
-      "status": "scheduled",
-      "detail": "Sun, August 30th at 9:30 AM EDT",
-      "minute": null,
+      "status": "live",
+      "detail": "进行中 0'",
+      "minute": 0,
       "home_score": 0,
       "away_score": 0,
       "venue": "Europa-Park Stadion",
       "broadcast": "Fandango",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401884814/werder-bremen-sc-freiburg"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401884814"
     },
     "BL1|401884813": {
       "id": "401884813",
@@ -1828,5 +1828,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-08-30T14:02:22.916857+00:00"
+  "updated": "2026-08-30T14:32:15.735117+00:00"
 }

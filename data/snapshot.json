@@ -580,6 +580,209 @@
       "broadcast": "USA Net",
       "link": "https://www.espn.com/soccer/match/_/gameId/401879292/chelsea-arsenal"
     },
+    "EPL|401879285": {
+      "id": "401879285",
+      "league": "EPL",
+      "league_name": "英格兰足球超级联赛",
+      "league_short": "英超",
+      "home": {
+        "id": "349",
+        "name": "AFC Bournemouth",
+        "short": "Bournemouth",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
+        "league": "EPL"
+      },
+      "away": {
+        "id": "337",
+        "name": "Brentford",
+        "short": "Brentford",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
+        "league": "EPL"
+      },
+      "time": "2026-09-12T14:00Z",
+      "status": "scheduled",
+      "detail": "Sat, September 12th at 10:00 AM EDT",
+      "minute": null,
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "Vitality Stadium",
+      "broadcast": "",
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879285/brentford-afc-bournemouth"
+    },
+    "EPL|401879284": {
+      "id": "401879284",
+      "league": "EPL",
+      "league_name": "英格兰足球超级联赛",
+      "league_short": "英超",
+      "home": {
+        "id": "362",
+        "name": "Aston Villa",
+        "short": "Aston Villa",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+        "league": "EPL"
+      },
+      "away": {
+        "id": "393",
+        "name": "Nottingham Forest",
+        "short": "Nottm Forest",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
+        "league": "EPL"
+      },
+      "time": "2026-09-12T14:00Z",
+      "status": "scheduled",
+      "detail": "Sat, September 12th at 10:00 AM EDT",
+      "minute": null,
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "Villa Park",
+      "broadcast": "",
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879284/nottingham-forest-aston-villa"
+    },
+    "EPL|401879283": {
+      "id": "401879283",
+      "league": "EPL",
+      "league_name": "英格兰足球超级联赛",
+      "league_short": "英超",
+      "home": {
+        "id": "363",
+        "name": "Chelsea",
+        "short": "Chelsea",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+        "league": "EPL"
+      },
+      "away": {
+        "id": "306",
+        "name": "Hull City",
+        "short": "Hull",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png",
+        "league": "EPL"
+      },
+      "time": "2026-09-12T14:00Z",
+      "status": "scheduled",
+      "detail": "Sat, September 12th at 10:00 AM EDT",
+      "minute": null,
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "Stamford Bridge",
+      "broadcast": "",
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879283/hull-city-chelsea"
+    },
+    "EPL|401879281": {
+      "id": "401879281",
+      "league": "EPL",
+      "league_name": "英格兰足球超级联赛",
+      "league_short": "英超",
+      "home": {
+        "id": "384",
+        "name": "Crystal Palace",
+        "short": "C Palace",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
+        "league": "EPL"
+      },
+      "away": {
+        "id": "373",
+        "name": "Ipswich Town",
+        "short": "Ipswich",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
+        "league": "EPL"
+      },
+      "time": "2026-09-12T14:00Z",
+      "status": "scheduled",
+      "detail": "Sat, September 12th at 10:00 AM EDT",
+      "minute": null,
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "Selhurst Park",
+      "broadcast": "",
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879281/ipswich-town-crystal-palace"
+    },
+    "EPL|401879279": {
+      "id": "401879279",
+      "league": "EPL",
+      "league_name": "英格兰足球超级联赛",
+      "league_short": "英超",
+      "home": {
+        "id": "364",
+        "name": "Liverpool",
+        "short": "Liverpool",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+        "league": "EPL"
+      },
+      "away": {
+        "id": "370",
+        "name": "Fulham",
+        "short": "Fulham",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
+        "league": "EPL"
+      },
+      "time": "2026-09-12T14:00Z",
+      "status": "scheduled",
+      "detail": "Sat, September 12th at 10:00 AM EDT",
+      "minute": null,
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "Anfield",
+      "broadcast": "",
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879279/fulham-liverpool"
+    },
+    "EPL|401879277": {
+      "id": "401879277",
+      "league": "EPL",
+      "league_name": "英格兰足球超级联赛",
+      "league_short": "英超",
+      "home": {
+        "id": "367",
+        "name": "Tottenham Hotspur",
+        "short": "Spurs",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
+        "league": "EPL"
+      },
+      "away": {
+        "id": "368",
+        "name": "Everton",
+        "short": "Everton",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
+        "league": "EPL"
+      },
+      "time": "2026-09-12T16:30Z",
+      "status": "scheduled",
+      "detail": "Sat, September 12th at 12:30 PM EDT",
+      "minute": null,
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "Tottenham Hotspur Stadium",
+      "broadcast": "",
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879277/everton-tottenham-hotspur"
+    },
+    "EPL|401878779": {
+      "id": "401878779",
+      "league": "EPL",
+      "league_name": "英格兰足球超级联赛",
+      "league_short": "英超",
+      "home": {
+        "id": "366",
+        "name": "Sunderland",
+        "short": "Sunderland",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
+        "league": "EPL"
+      },
+      "away": {
+        "id": "359",
+        "name": "Arsenal",
+        "short": "Arsenal",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+        "league": "EPL"
+      },
+      "time": "2026-09-12T19:00Z",
+      "status": "scheduled",
+      "detail": "Sat, September 12th at 3:00 PM EDT",
+      "minute": null,
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "Stadium of Light",
+      "broadcast": "",
+      "link": "https://www.espn.com/soccer/match/_/gameId/401878779/arsenal-sunderland"
+    },
     "BL1|401884817": {
       "id": "401884817",
       "league": "BL1",
@@ -1130,6 +1333,180 @@
       "venue": "Stadion An der Alten Försterei",
       "broadcast": "",
       "link": "https://www.espn.com/soccer/match/_/gameId/401884793/schalke-04-1-fc-union-berlin"
+    },
+    "BL1|401884799": {
+      "id": "401884799",
+      "league": "BL1",
+      "league_name": "德国足球甲级联赛",
+      "league_short": "德甲",
+      "home": {
+        "id": "124",
+        "name": "Borussia Dortmund",
+        "short": "Dortmund",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
+        "league": "BL1"
+      },
+      "away": {
+        "id": "3307",
+        "name": "SC Paderborn 07",
+        "short": "Paderborn",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3307.png",
+        "league": "BL1"
+      },
+      "time": "2026-09-12T13:30Z",
+      "status": "scheduled",
+      "detail": "Sat, September 12th at 9:30 AM EDT",
+      "minute": null,
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "Signal Iduna Park",
+      "broadcast": "",
+      "link": "https://www.espn.com/soccer/match/_/gameId/401884799/sc-paderborn-07-borussia-dortmund"
+    },
+    "BL1|401884795": {
+      "id": "401884795",
+      "league": "BL1",
+      "league_name": "德国足球甲级联赛",
+      "league_short": "德甲",
+      "home": {
+        "id": "3841",
+        "name": "FC Augsburg",
+        "short": "Augsburg",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
+        "league": "BL1"
+      },
+      "away": {
+        "id": "131",
+        "name": "Bayer Leverkusen",
+        "short": "Leverkusen",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
+        "league": "BL1"
+      },
+      "time": "2026-09-12T13:30Z",
+      "status": "scheduled",
+      "detail": "Sat, September 12th at 9:30 AM EDT",
+      "minute": null,
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "WWK Arena",
+      "broadcast": "",
+      "link": "https://www.espn.com/soccer/match/_/gameId/401884795/bayer-leverkusen-fc-augsburg"
+    },
+    "BL1|401884794": {
+      "id": "401884794",
+      "league": "BL1",
+      "league_name": "德国足球甲级联赛",
+      "league_short": "德甲",
+      "home": {
+        "id": "2950",
+        "name": "Mainz",
+        "short": "Mainz",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
+        "league": "BL1"
+      },
+      "away": {
+        "id": "125",
+        "name": "Eintracht Frankfurt",
+        "short": "Frankfurt",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
+        "league": "BL1"
+      },
+      "time": "2026-09-12T13:30Z",
+      "status": "scheduled",
+      "detail": "Sat, September 12th at 9:30 AM EDT",
+      "minute": null,
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "MEWA ARENA",
+      "broadcast": "",
+      "link": "https://www.espn.com/soccer/match/_/gameId/401884794/eintracht-frankfurt-mainz"
+    },
+    "BL1|401884796": {
+      "id": "401884796",
+      "league": "BL1",
+      "league_name": "德国足球甲级联赛",
+      "league_short": "德甲",
+      "home": {
+        "id": "126",
+        "name": "SC Freiburg",
+        "short": "Freiburg",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
+        "league": "BL1"
+      },
+      "away": {
+        "id": "268",
+        "name": "Borussia Mönchengladbach",
+        "short": "Gladbach",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
+        "league": "BL1"
+      },
+      "time": "2026-09-12T13:30Z",
+      "status": "scheduled",
+      "detail": "Sat, September 12th at 9:30 AM EDT",
+      "minute": null,
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "Europa-Park Stadion",
+      "broadcast": "",
+      "link": "https://www.espn.com/soccer/match/_/gameId/401884796/borussia-monchengladbach-sc-freiburg"
+    },
+    "BL1|401884797": {
+      "id": "401884797",
+      "league": "BL1",
+      "league_name": "德国足球甲级联赛",
+      "league_short": "德甲",
+      "home": {
+        "id": "7911",
+        "name": "TSG Hoffenheim",
+        "short": "Hoffenheim",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
+        "league": "BL1"
+      },
+      "away": {
+        "id": "134",
+        "name": "VfB Stuttgart",
+        "short": "Stuttgart",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+        "league": "BL1"
+      },
+      "time": "2026-09-12T13:30Z",
+      "status": "scheduled",
+      "detail": "Sat, September 12th at 9:30 AM EDT",
+      "minute": null,
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "PreZero Arena",
+      "broadcast": "",
+      "link": "https://www.espn.com/soccer/match/_/gameId/401884797/vfb-stuttgart-tsg-hoffenheim"
+    },
+    "BL1|401884792": {
+      "id": "401884792",
+      "league": "BL1",
+      "league_name": "德国足球甲级联赛",
+      "league_short": "德甲",
+      "home": {
+        "id": "122",
+        "name": "FC Cologne",
+        "short": "Cologne",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
+        "league": "BL1"
+      },
+      "away": {
+        "id": "137",
+        "name": "Werder Bremen",
+        "short": "Bremen",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
+        "league": "BL1"
+      },
+      "time": "2026-09-12T16:30Z",
+      "status": "scheduled",
+      "detail": "Sat, September 12th at 12:30 PM EDT",
+      "minute": null,
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "RheinEnergieStadion",
+      "broadcast": "",
+      "link": "https://www.espn.com/soccer/match/_/gameId/401884792/werder-bremen-fc-cologne"
     }
   },
   "teams": [
@@ -1444,5 +1821,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-08-29T23:32:26.639954+00:00"
+  "updated": "2026-08-30T00:03:07.934990+00:00"
 }

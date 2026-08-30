@@ -169,7 +169,7 @@
       "detail": "进行中 0'",
       "minute": 0,
       "home_score": 3,
-      "away_score": 2,
+      "away_score": 1,
       "venue": "Stamford Bridge",
       "broadcast": "Peacock",
       "link": "https://www.espn.com/soccer/match/_/gameId/401879317"
@@ -1009,7 +1009,7 @@
       "status": "live",
       "detail": "进行中 0'",
       "minute": 0,
-      "home_score": 2,
+      "home_score": 1,
       "away_score": 0,
       "venue": "Europa-Park Stadion",
       "broadcast": "Fandango",
@@ -1828,5 +1828,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-08-30T15:02:23.545286+00:00"
+  "updated": "2026-08-30T15:32:35.178773+00:00"
 }

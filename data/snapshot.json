@@ -256,7 +256,7 @@
       "detail": "进行中 0'",
       "minute": 0,
       "home_score": 0,
-      "away_score": 0,
+      "away_score": 1,
       "venue": "Old Trafford",
       "broadcast": "USA Net",
       "link": "https://www.espn.com/soccer/match/_/gameId/401879293"
@@ -1038,7 +1038,7 @@
       "status": "live",
       "detail": "进行中 0'",
       "minute": 0,
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 0,
       "venue": "WWK Arena",
       "broadcast": "Fandango",
@@ -1828,5 +1828,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-08-30T16:32:46.507730+00:00"
+  "updated": "2026-08-30T17:02:51.607842+00:00"
 }

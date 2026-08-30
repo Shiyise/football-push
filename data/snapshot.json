@@ -255,7 +255,7 @@
       "status": "live",
       "detail": "进行中 0'",
       "minute": 0,
-      "home_score": 4,
+      "home_score": 1,
       "away_score": 1,
       "venue": "Old Trafford",
       "broadcast": "USA Net",
@@ -1828,5 +1828,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-08-30T17:32:16.965451+00:00"
+  "updated": "2026-08-30T18:02:18.806359+00:00"
 }

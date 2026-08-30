@@ -1786,6 +1786,13 @@
   ],
   "notifications": [
     {
+      "time": "8月30日 11:32",
+      "kind": "reminder",
+      "title": "开赛提醒 英超",
+      "body": "Manchester United vs Ipswich Town\n英格兰足球超级联赛 · 8月30日 23:30\nOld Trafford · USA Net",
+      "key": "EPL|401879293"
+    },
+    {
       "time": "8月29日 12:32",
       "kind": "reminder",
       "title": "开赛提醒 德甲",
@@ -1821,5 +1828,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-08-30T03:02:33.980015+00:00"
+  "updated": "2026-08-30T03:32:24.397888+00:00"
 }

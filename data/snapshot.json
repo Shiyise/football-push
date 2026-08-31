@@ -1,34 +1,5 @@
 {
   "matches": {
-    "EPL|401879294": {
-      "id": "401879294",
-      "league": "EPL",
-      "league_name": "英格兰足球超级联赛",
-      "league_short": "英超",
-      "home": {
-        "id": "384",
-        "name": "Crystal Palace",
-        "short": "C Palace",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-        "league": "EPL"
-      },
-      "away": {
-        "id": "382",
-        "name": "Manchester City",
-        "short": "Man City",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-        "league": "EPL"
-      },
-      "time": "2026-08-28T19:00Z",
-      "status": "finished",
-      "detail": "FT",
-      "minute": null,
-      "home_score": 1,
-      "away_score": 4,
-      "venue": "Selhurst Park",
-      "broadcast": "USA Net",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879294/manchester-city-crystal-palace"
-    },
     "EPL|401879314": {
       "id": "401879314",
       "league": "EPL",
@@ -783,34 +754,63 @@
       "broadcast": "",
       "link": "https://www.espn.com/soccer/match/_/gameId/401878779/arsenal-sunderland"
     },
-    "BL1|401884817": {
-      "id": "401884817",
-      "league": "BL1",
-      "league_name": "德国足球甲级联赛",
-      "league_short": "德甲",
+    "EPL|401879282": {
+      "id": "401879282",
+      "league": "EPL",
+      "league_name": "英格兰足球超级联赛",
+      "league_short": "英超",
       "home": {
-        "id": "132",
-        "name": "Bayern Munich",
-        "short": "Bayern",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-        "league": "BL1"
+        "id": "388",
+        "name": "Coventry City",
+        "short": "Coventry",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
+        "league": "EPL"
       },
       "away": {
-        "id": "134",
-        "name": "VfB Stuttgart",
-        "short": "Stuttgart",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-        "league": "BL1"
+        "id": "331",
+        "name": "Brighton & Hove Albion",
+        "short": "Brighton",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
+        "league": "EPL"
       },
-      "time": "2026-08-28T18:30Z",
-      "status": "finished",
-      "detail": "FT",
+      "time": "2026-09-13T13:00Z",
+      "status": "scheduled",
+      "detail": "Sun, September 13th at 9:00 AM EDT",
       "minute": null,
-      "home_score": 5,
-      "away_score": 1,
-      "venue": "Allianz Arena",
-      "broadcast": "Fandango",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401884817/vfb-stuttgart-bayern-munich"
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "Coventry Building Society Arena",
+      "broadcast": "",
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879282/brighton-hove-albion-coventry-city"
+    },
+    "EPL|401879278": {
+      "id": "401879278",
+      "league": "EPL",
+      "league_name": "英格兰足球超级联赛",
+      "league_short": "英超",
+      "home": {
+        "id": "360",
+        "name": "Manchester United",
+        "short": "Man United",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "league": "EPL"
+      },
+      "away": {
+        "id": "382",
+        "name": "Manchester City",
+        "short": "Man City",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+        "league": "EPL"
+      },
+      "time": "2026-09-13T15:30Z",
+      "status": "scheduled",
+      "detail": "Sun, September 13th at 11:30 AM EDT",
+      "minute": null,
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "Old Trafford",
+      "broadcast": "",
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879278/manchester-city-manchester-united"
     },
     "BL1|401884811": {
       "id": "401884811",
@@ -1507,6 +1507,64 @@
       "venue": "RheinEnergieStadion",
       "broadcast": "",
       "link": "https://www.espn.com/soccer/match/_/gameId/401884792/werder-bremen-fc-cologne"
+    },
+    "BL1|401884798": {
+      "id": "401884798",
+      "league": "BL1",
+      "league_name": "德国足球甲级联赛",
+      "league_short": "德甲",
+      "home": {
+        "id": "11420",
+        "name": "RB Leipzig",
+        "short": "RB Leipzig",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
+        "league": "BL1"
+      },
+      "away": {
+        "id": "127",
+        "name": "Hamburg SV",
+        "short": "Hamburg",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png",
+        "league": "BL1"
+      },
+      "time": "2026-09-13T13:30Z",
+      "status": "scheduled",
+      "detail": "Sun, September 13th at 9:30 AM EDT",
+      "minute": null,
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "Red Bull Arena",
+      "broadcast": "",
+      "link": "https://www.espn.com/soccer/match/_/gameId/401884798/hamburg-sv-rb-leipzig"
+    },
+    "BL1|401884791": {
+      "id": "401884791",
+      "league": "BL1",
+      "league_name": "德国足球甲级联赛",
+      "league_short": "德甲",
+      "home": {
+        "id": "10388",
+        "name": "SV Elversberg",
+        "short": "Elversberg",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10388.png",
+        "league": "BL1"
+      },
+      "away": {
+        "id": "132",
+        "name": "Bayern Munich",
+        "short": "Bayern",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+        "league": "BL1"
+      },
+      "time": "2026-09-13T15:30Z",
+      "status": "scheduled",
+      "detail": "Sun, September 13th at 11:30 AM EDT",
+      "minute": null,
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "URSAPHARM-Arena an der Kaiserlinde",
+      "broadcast": "",
+      "link": "https://www.espn.com/soccer/match/_/gameId/401884791/bayern-munich-sv-elversberg"
     }
   },
   "teams": [
@@ -1828,5 +1886,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-08-30T23:32:22.630652+00:00"
+  "updated": "2026-08-31T00:02:59.836138+00:00"
 }

@@ -252,14 +252,14 @@
         "league": "EPL"
       },
       "time": "2026-08-31T19:00Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
+      "status": "finished",
+      "detail": "FT",
+      "minute": null,
       "home_score": 0,
       "away_score": 1,
       "venue": "Villa Park",
       "broadcast": "USA Net",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879295"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879295/arsenal-aston-villa"
     },
     "EPL|401879288": {
       "id": "401879288",
@@ -1893,5 +1893,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-08-31T21:02:18.307028+00:00"
+  "updated": "2026-08-31T21:32:30.535571+00:00"
 }

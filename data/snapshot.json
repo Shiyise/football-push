@@ -256,7 +256,7 @@
       "detail": "进行中 0'",
       "minute": 0,
       "home_score": 0,
-      "away_score": 0,
+      "away_score": 1,
       "venue": "Villa Park",
       "broadcast": "USA Net",
       "link": "https://www.espn.com/soccer/match/_/gameId/401879295"
@@ -1893,5 +1893,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-08-31T20:32:31.278217+00:00"
+  "updated": "2026-08-31T21:02:18.307028+00:00"
 }

@@ -1844,6 +1844,13 @@
   ],
   "notifications": [
     {
+      "time": "8月31日 15:02",
+      "kind": "reminder",
+      "title": "开赛提醒 英超",
+      "body": "Aston Villa vs Arsenal\n英格兰足球超级联赛 · 9月1日 03:00\nVilla Park · USA Net",
+      "key": "EPL|401879295"
+    },
+    {
       "time": "8月30日 11:32",
       "kind": "reminder",
       "title": "开赛提醒 英超",
@@ -1886,5 +1893,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-08-31T06:32:40.005526+00:00"
+  "updated": "2026-08-31T07:02:46.329714+00:00"
 }

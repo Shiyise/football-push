@@ -1,121 +1,5 @@
 {
   "matches": {
-    "EPL|401879314": {
-      "id": "401879314",
-      "league": "EPL",
-      "league_name": "英格兰足球超级联赛",
-      "league_short": "英超",
-      "home": {
-        "id": "364",
-        "name": "Liverpool",
-        "short": "Liverpool",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-        "league": "EPL"
-      },
-      "away": {
-        "id": "393",
-        "name": "Nottingham Forest",
-        "short": "Nottm Forest",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
-        "league": "EPL"
-      },
-      "time": "2026-08-29T11:30Z",
-      "status": "finished",
-      "detail": "FT",
-      "minute": null,
-      "home_score": 2,
-      "away_score": 2,
-      "venue": "Anfield",
-      "broadcast": "USA Net",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879314/nottingham-forest-liverpool"
-    },
-    "EPL|401879296": {
-      "id": "401879296",
-      "league": "EPL",
-      "league_name": "英格兰足球超级联赛",
-      "league_short": "英超",
-      "home": {
-        "id": "349",
-        "name": "AFC Bournemouth",
-        "short": "Bournemouth",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
-        "league": "EPL"
-      },
-      "away": {
-        "id": "368",
-        "name": "Everton",
-        "short": "Everton",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
-        "league": "EPL"
-      },
-      "time": "2026-08-29T14:00Z",
-      "status": "finished",
-      "detail": "FT",
-      "minute": null,
-      "home_score": 1,
-      "away_score": 1,
-      "venue": "Vitality Stadium",
-      "broadcast": "Peacock",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879296/everton-afc-bournemouth"
-    },
-    "EPL|401879316": {
-      "id": "401879316",
-      "league": "EPL",
-      "league_name": "英格兰足球超级联赛",
-      "league_short": "英超",
-      "home": {
-        "id": "388",
-        "name": "Coventry City",
-        "short": "Coventry",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
-        "league": "EPL"
-      },
-      "away": {
-        "id": "306",
-        "name": "Hull City",
-        "short": "Hull",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png",
-        "league": "EPL"
-      },
-      "time": "2026-08-29T14:00Z",
-      "status": "finished",
-      "detail": "FT",
-      "minute": null,
-      "home_score": 0,
-      "away_score": 1,
-      "venue": "Coventry Building Society Arena",
-      "broadcast": "USA Net",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879316/hull-city-coventry-city"
-    },
-    "EPL|401879312": {
-      "id": "401879312",
-      "league": "EPL",
-      "league_name": "英格兰足球超级联赛",
-      "league_short": "英超",
-      "home": {
-        "id": "367",
-        "name": "Tottenham Hotspur",
-        "short": "Spurs",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-        "league": "EPL"
-      },
-      "away": {
-        "id": "361",
-        "name": "Newcastle United",
-        "short": "Newcastle",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
-        "league": "EPL"
-      },
-      "time": "2026-08-29T16:30Z",
-      "status": "finished",
-      "detail": "FT",
-      "minute": null,
-      "home_score": 0,
-      "away_score": 2,
-      "venue": "Tottenham Hotspur Stadium",
-      "broadcast": "NBC",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879312/newcastle-united-tottenham-hotspur"
-    },
     "EPL|401879317": {
       "id": "401879317",
       "league": "EPL",
@@ -812,179 +696,34 @@
       "broadcast": "",
       "link": "https://www.espn.com/soccer/match/_/gameId/401879278/manchester-city-manchester-united"
     },
-    "BL1|401884811": {
-      "id": "401884811",
-      "league": "BL1",
-      "league_name": "德国足球甲级联赛",
-      "league_short": "德甲",
+    "EPL|401879280": {
+      "id": "401879280",
+      "league": "EPL",
+      "league_name": "英格兰足球超级联赛",
+      "league_short": "英超",
       "home": {
-        "id": "598",
-        "name": "1. FC Union Berlin",
-        "short": "Union Berlin",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
-        "league": "BL1"
+        "id": "357",
+        "name": "Leeds United",
+        "short": "Leeds",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
+        "league": "EPL"
       },
       "away": {
-        "id": "125",
-        "name": "Eintracht Frankfurt",
-        "short": "Frankfurt",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
-        "league": "BL1"
+        "id": "361",
+        "name": "Newcastle United",
+        "short": "Newcastle",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
+        "league": "EPL"
       },
-      "time": "2026-08-29T13:30Z",
-      "status": "finished",
-      "detail": "FT",
-      "minute": null,
-      "home_score": 3,
-      "away_score": 3,
-      "venue": "Stadion An der Alten Försterei",
-      "broadcast": "Fandango",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401884811/eintracht-frankfurt-1-fc-union-berlin"
-    },
-    "BL1|401884810": {
-      "id": "401884810",
-      "league": "BL1",
-      "league_name": "德国足球甲级联赛",
-      "league_short": "德甲",
-      "home": {
-        "id": "122",
-        "name": "FC Cologne",
-        "short": "Cologne",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
-        "league": "BL1"
-      },
-      "away": {
-        "id": "7911",
-        "name": "TSG Hoffenheim",
-        "short": "Hoffenheim",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
-        "league": "BL1"
-      },
-      "time": "2026-08-29T13:30Z",
-      "status": "finished",
-      "detail": "FT",
-      "minute": null,
-      "home_score": 3,
-      "away_score": 2,
-      "venue": "RheinEnergieStadion",
-      "broadcast": "Fandango",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401884810/tsg-hoffenheim-fc-cologne"
-    },
-    "BL1|401884812": {
-      "id": "401884812",
-      "league": "BL1",
-      "league_name": "德国足球甲级联赛",
-      "league_short": "德甲",
-      "home": {
-        "id": "2950",
-        "name": "Mainz",
-        "short": "Mainz",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
-        "league": "BL1"
-      },
-      "away": {
-        "id": "3307",
-        "name": "SC Paderborn 07",
-        "short": "Paderborn",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3307.png",
-        "league": "BL1"
-      },
-      "time": "2026-08-29T13:30Z",
-      "status": "finished",
-      "detail": "FT",
+      "time": "2026-09-14T19:00Z",
+      "status": "scheduled",
+      "detail": "Mon, September 14th at 3:00 PM EDT",
       "minute": null,
       "home_score": 0,
       "away_score": 0,
-      "venue": "MEWA ARENA",
-      "broadcast": "Fandango",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401884812/sc-paderborn-07-mainz"
-    },
-    "BL1|401884815": {
-      "id": "401884815",
-      "league": "BL1",
-      "league_name": "德国足球甲级联赛",
-      "league_short": "德甲",
-      "home": {
-        "id": "11420",
-        "name": "RB Leipzig",
-        "short": "RB Leipzig",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
-        "league": "BL1"
-      },
-      "away": {
-        "id": "268",
-        "name": "Borussia Mönchengladbach",
-        "short": "Gladbach",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
-        "league": "BL1"
-      },
-      "time": "2026-08-29T13:30Z",
-      "status": "finished",
-      "detail": "FT",
-      "minute": null,
-      "home_score": 3,
-      "away_score": 0,
-      "venue": "Red Bull Arena",
-      "broadcast": "Fandango",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401884815/borussia-monchengladbach-rb-leipzig"
-    },
-    "BL1|401884809": {
-      "id": "401884809",
-      "league": "BL1",
-      "league_name": "德国足球甲级联赛",
-      "league_short": "德甲",
-      "home": {
-        "id": "10388",
-        "name": "SV Elversberg",
-        "short": "Elversberg",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10388.png",
-        "league": "BL1"
-      },
-      "away": {
-        "id": "131",
-        "name": "Bayer Leverkusen",
-        "short": "Leverkusen",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
-        "league": "BL1"
-      },
-      "time": "2026-08-29T13:30Z",
-      "status": "finished",
-      "detail": "FT",
-      "minute": null,
-      "home_score": 3,
-      "away_score": 2,
-      "venue": "URSAPHARM-Arena an der Kaiserlinde",
-      "broadcast": "Fandango",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401884809/bayer-leverkusen-sv-elversberg"
-    },
-    "BL1|401884816": {
-      "id": "401884816",
-      "league": "BL1",
-      "league_name": "德国足球甲级联赛",
-      "league_short": "德甲",
-      "home": {
-        "id": "124",
-        "name": "Borussia Dortmund",
-        "short": "Dortmund",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
-        "league": "BL1"
-      },
-      "away": {
-        "id": "127",
-        "name": "Hamburg SV",
-        "short": "Hamburg",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png",
-        "league": "BL1"
-      },
-      "time": "2026-08-29T16:30Z",
-      "status": "finished",
-      "detail": "FT",
-      "minute": null,
-      "home_score": 2,
-      "away_score": 0,
-      "venue": "Signal Iduna Park",
-      "broadcast": "USA Net",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401884816/hamburg-sv-borussia-dortmund"
+      "venue": "Elland Road",
+      "broadcast": "",
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879280/newcastle-united-leeds-united"
     },
     "BL1|401884814": {
       "id": "401884814",
@@ -1893,5 +1632,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-08-31T23:32:16.050610+00:00"
+  "updated": "2026-09-01T00:06:25.293372+00:00"
 }

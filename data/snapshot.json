@@ -1,121 +1,5 @@
 {
   "matches": {
-    "EPL|401879317": {
-      "id": "401879317",
-      "league": "EPL",
-      "league_name": "英格兰足球超级联赛",
-      "league_short": "英超",
-      "home": {
-        "id": "363",
-        "name": "Chelsea",
-        "short": "Chelsea",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-        "league": "EPL"
-      },
-      "away": {
-        "id": "331",
-        "name": "Brighton & Hove Albion",
-        "short": "Brighton",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
-        "league": "EPL"
-      },
-      "time": "2026-08-30T13:00Z",
-      "status": "finished",
-      "detail": "FT",
-      "minute": null,
-      "home_score": 4,
-      "away_score": 3,
-      "venue": "Stamford Bridge",
-      "broadcast": "Peacock",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879317/brighton-hove-albion-chelsea"
-    },
-    "EPL|401879315": {
-      "id": "401879315",
-      "league": "EPL",
-      "league_name": "英格兰足球超级联赛",
-      "league_short": "英超",
-      "home": {
-        "id": "357",
-        "name": "Leeds United",
-        "short": "Leeds",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
-        "league": "EPL"
-      },
-      "away": {
-        "id": "337",
-        "name": "Brentford",
-        "short": "Brentford",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
-        "league": "EPL"
-      },
-      "time": "2026-08-30T13:00Z",
-      "status": "finished",
-      "detail": "FT",
-      "minute": null,
-      "home_score": 1,
-      "away_score": 1,
-      "venue": "Elland Road",
-      "broadcast": "USA Net",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879315/brentford-leeds-united"
-    },
-    "EPL|401879313": {
-      "id": "401879313",
-      "league": "EPL",
-      "league_name": "英格兰足球超级联赛",
-      "league_short": "英超",
-      "home": {
-        "id": "366",
-        "name": "Sunderland",
-        "short": "Sunderland",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
-        "league": "EPL"
-      },
-      "away": {
-        "id": "370",
-        "name": "Fulham",
-        "short": "Fulham",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
-        "league": "EPL"
-      },
-      "time": "2026-08-30T13:00Z",
-      "status": "finished",
-      "detail": "FT",
-      "minute": null,
-      "home_score": 1,
-      "away_score": 0,
-      "venue": "Stadium of Light",
-      "broadcast": "Peacock",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879313/fulham-sunderland"
-    },
-    "EPL|401879293": {
-      "id": "401879293",
-      "league": "EPL",
-      "league_name": "英格兰足球超级联赛",
-      "league_short": "英超",
-      "home": {
-        "id": "360",
-        "name": "Manchester United",
-        "short": "Man United",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-        "league": "EPL"
-      },
-      "away": {
-        "id": "373",
-        "name": "Ipswich Town",
-        "short": "Ipswich",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
-        "league": "EPL"
-      },
-      "time": "2026-08-30T15:30Z",
-      "status": "finished",
-      "detail": "FT",
-      "minute": null,
-      "home_score": 5,
-      "away_score": 2,
-      "venue": "Old Trafford",
-      "broadcast": "USA Net",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879293/ipswich-town-manchester-united"
-    },
     "EPL|401879295": {
       "id": "401879295",
       "league": "EPL",
@@ -725,64 +609,6 @@
       "broadcast": "",
       "link": "https://www.espn.com/soccer/match/_/gameId/401879280/newcastle-united-leeds-united"
     },
-    "BL1|401884814": {
-      "id": "401884814",
-      "league": "BL1",
-      "league_name": "德国足球甲级联赛",
-      "league_short": "德甲",
-      "home": {
-        "id": "126",
-        "name": "SC Freiburg",
-        "short": "Freiburg",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
-        "league": "BL1"
-      },
-      "away": {
-        "id": "137",
-        "name": "Werder Bremen",
-        "short": "Bremen",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
-        "league": "BL1"
-      },
-      "time": "2026-08-30T13:30Z",
-      "status": "finished",
-      "detail": "FT",
-      "minute": null,
-      "home_score": 4,
-      "away_score": 1,
-      "venue": "Europa-Park Stadion",
-      "broadcast": "Fandango",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401884814/werder-bremen-sc-freiburg"
-    },
-    "BL1|401884813": {
-      "id": "401884813",
-      "league": "BL1",
-      "league_name": "德国足球甲级联赛",
-      "league_short": "德甲",
-      "home": {
-        "id": "3841",
-        "name": "FC Augsburg",
-        "short": "Augsburg",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
-        "league": "BL1"
-      },
-      "away": {
-        "id": "133",
-        "name": "Schalke 04",
-        "short": "Schalke",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
-        "league": "BL1"
-      },
-      "time": "2026-08-30T15:30Z",
-      "status": "finished",
-      "detail": "FT",
-      "minute": null,
-      "home_score": 3,
-      "away_score": 0,
-      "venue": "WWK Arena",
-      "broadcast": "Fandango",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401884813/schalke-04-fc-augsburg"
-    },
     "BL1|401884808": {
       "id": "401884808",
       "league": "BL1",
@@ -809,7 +635,7 @@
       "home_score": 0,
       "away_score": 0,
       "venue": "MHPArena",
-      "broadcast": "",
+      "broadcast": "Fandango",
       "link": "https://www.espn.com/soccer/match/_/gameId/401884808/fc-cologne-vfb-stuttgart"
     },
     "BL1|401884806": {
@@ -838,7 +664,7 @@
       "home_score": 0,
       "away_score": 0,
       "venue": "BayArena",
-      "broadcast": "",
+      "broadcast": "Fandango",
       "link": "https://www.espn.com/soccer/match/_/gameId/401884806/1-fc-union-berlin-bayer-leverkusen"
     },
     "BL1|401884804": {
@@ -867,7 +693,7 @@
       "home_score": 0,
       "away_score": 0,
       "venue": "BORUSSIA-PARK",
-      "broadcast": "",
+      "broadcast": "Fandango",
       "link": "https://www.espn.com/soccer/match/_/gameId/401884804/sv-elversberg-borussia-monchengladbach"
     },
     "BL1|401884800": {
@@ -896,7 +722,7 @@
       "home_score": 0,
       "away_score": 0,
       "venue": "Home Deluxe Arena",
-      "broadcast": "",
+      "broadcast": "Fandango",
       "link": "https://www.espn.com/soccer/match/_/gameId/401884800/sc-freiburg-sc-paderborn-07"
     },
     "BL1|401884807": {
@@ -925,7 +751,7 @@
       "home_score": 0,
       "away_score": 0,
       "venue": "PreZero Arena",
-      "broadcast": "",
+      "broadcast": "Fandango",
       "link": "https://www.espn.com/soccer/match/_/gameId/401884807/borussia-dortmund-tsg-hoffenheim"
     },
     "BL1|401884802": {
@@ -954,7 +780,7 @@
       "home_score": 0,
       "away_score": 0,
       "venue": "Weserstadion",
-      "broadcast": "",
+      "broadcast": "Fandango",
       "link": "https://www.espn.com/soccer/match/_/gameId/401884802/rb-leipzig-werder-bremen"
     },
     "BL1|401884801": {
@@ -983,7 +809,7 @@
       "home_score": 0,
       "away_score": 0,
       "venue": "Veltins Arena",
-      "broadcast": "",
+      "broadcast": "USA Net",
       "link": "https://www.espn.com/soccer/match/_/gameId/401884801/bayern-munich-schalke-04"
     },
     "BL1|401884803": {
@@ -1012,7 +838,7 @@
       "home_score": 0,
       "away_score": 0,
       "venue": "Volksparkstadion",
-      "broadcast": "",
+      "broadcast": "Fandango",
       "link": "https://www.espn.com/soccer/match/_/gameId/401884803/mainz-hamburg-sv"
     },
     "BL1|401884805": {
@@ -1041,7 +867,7 @@
       "home_score": 0,
       "away_score": 0,
       "venue": "Deutsche Bank Park",
-      "broadcast": "",
+      "broadcast": "Fandango",
       "link": "https://www.espn.com/soccer/match/_/gameId/401884805/fc-augsburg-eintracht-frankfurt"
     },
     "BL1|401884793": {
@@ -1070,7 +896,7 @@
       "home_score": 0,
       "away_score": 0,
       "venue": "Stadion An der Alten Försterei",
-      "broadcast": "",
+      "broadcast": "Fandango",
       "link": "https://www.espn.com/soccer/match/_/gameId/401884793/schalke-04-1-fc-union-berlin"
     },
     "BL1|401884799": {
@@ -1632,5 +1458,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-09-01T23:32:36.899870+00:00"
+  "updated": "2026-09-02T00:06:38.061298+00:00"
 }

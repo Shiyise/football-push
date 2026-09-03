@@ -1,34 +1,5 @@
 {
   "matches": {
-    "EPL|401879295": {
-      "id": "401879295",
-      "league": "EPL",
-      "league_name": "英格兰足球超级联赛",
-      "league_short": "英超",
-      "home": {
-        "id": "362",
-        "name": "Aston Villa",
-        "short": "Aston Villa",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-        "league": "EPL"
-      },
-      "away": {
-        "id": "359",
-        "name": "Arsenal",
-        "short": "Arsenal",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-        "league": "EPL"
-      },
-      "time": "2026-08-31T19:00Z",
-      "status": "finished",
-      "detail": "FT",
-      "minute": null,
-      "home_score": 0,
-      "away_score": 1,
-      "venue": "Villa Park",
-      "broadcast": "USA Net",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879295/arsenal-aston-villa"
-    },
     "EPL|401879288": {
       "id": "401879288",
       "league": "EPL",
@@ -1458,5 +1429,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-09-02T23:33:38.241578+00:00"
+  "updated": "2026-09-03T00:06:47.283208+00:00"
 }

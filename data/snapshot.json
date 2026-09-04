@@ -20,14 +20,14 @@
         "league": "EPL"
       },
       "time": "2026-09-04T19:00Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
+      "status": "scheduled",
+      "detail": "Fri, September 4th at 3:00 PM EDT",
+      "minute": null,
       "home_score": 0,
-      "away_score": 2,
+      "away_score": 0,
       "venue": "Portman Road",
       "broadcast": "USA Net",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879288"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879288/liverpool-ipswich-town"
     },
     "EPL|401879286": {
       "id": "401879286",
@@ -600,14 +600,14 @@
         "league": "BL1"
       },
       "time": "2026-09-04T18:30Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
-      "home_score": 1,
+      "status": "scheduled",
+      "detail": "Fri, September 4th at 2:30 PM EDT",
+      "minute": null,
+      "home_score": 0,
       "away_score": 0,
       "venue": "MHPArena",
       "broadcast": "Fandango",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401884808"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401884808/fc-cologne-vfb-stuttgart"
     },
     "BL1|401884806": {
       "id": "401884806",
@@ -1436,5 +1436,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-09-04T20:04:01.038248+00:00"
+  "updated": "2026-09-04T20:35:20.687074+00:00"
 }

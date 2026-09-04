@@ -20,14 +20,14 @@
         "league": "EPL"
       },
       "time": "2026-09-04T19:00Z",
-      "status": "scheduled",
-      "detail": "Fri, September 4th at 3:00 PM EDT",
-      "minute": null,
+      "status": "live",
+      "detail": "进行中 0'",
+      "minute": 0,
       "home_score": 0,
       "away_score": 0,
       "venue": "Portman Road",
       "broadcast": "USA Net",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879288/liverpool-ipswich-town"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879288"
     },
     "EPL|401879286": {
       "id": "401879286",
@@ -1436,5 +1436,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-09-04T19:03:46.503641+00:00"
+  "updated": "2026-09-04T19:32:56.004296+00:00"
 }

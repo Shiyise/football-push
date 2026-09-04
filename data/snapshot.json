@@ -1380,6 +1380,13 @@
   ],
   "notifications": [
     {
+      "time": "9月4日 15:04",
+      "kind": "reminder",
+      "title": "开赛提醒 英超",
+      "body": "Ipswich Town vs Liverpool\n英格兰足球超级联赛 · 9月5日 03:00\nPortman Road · USA Net",
+      "key": "EPL|401879288"
+    },
+    {
       "time": "8月31日 15:02",
       "kind": "reminder",
       "title": "开赛提醒 英超",
@@ -1429,5 +1436,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-09-04T06:39:28.955240+00:00"
+  "updated": "2026-09-04T07:04:38.717989+00:00"
 }

@@ -78,14 +78,14 @@
         "league": "EPL"
       },
       "time": "2026-09-05T14:00Z",
-      "status": "scheduled",
-      "detail": "Sat, September 5th at 10:00 AM EDT",
-      "minute": null,
+      "status": "live",
+      "detail": "进行中 0'",
+      "minute": 0,
       "home_score": 0,
       "away_score": 0,
       "venue": "Gtech Community Stadium",
       "broadcast": "Peacock",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879311/sunderland-brentford"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879311"
     },
     "EPL|401879290": {
       "id": "401879290",
@@ -107,14 +107,14 @@
         "league": "EPL"
       },
       "time": "2026-09-05T14:00Z",
-      "status": "scheduled",
-      "detail": "Sat, September 5th at 10:00 AM EDT",
-      "minute": null,
+      "status": "live",
+      "detail": "进行中 0'",
+      "minute": 0,
       "home_score": 0,
       "away_score": 0,
       "venue": "American Express Stadium",
       "broadcast": "Peacock",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879290/leeds-united-brighton-hove-albion"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879290"
     },
     "EPL|401879289": {
       "id": "401879289",
@@ -136,14 +136,14 @@
         "league": "EPL"
       },
       "time": "2026-09-05T14:00Z",
-      "status": "scheduled",
-      "detail": "Sat, September 5th at 10:00 AM EDT",
-      "minute": null,
+      "status": "live",
+      "detail": "进行中 0'",
+      "minute": 0,
       "home_score": 0,
       "away_score": 0,
       "venue": "Craven Cottage",
       "broadcast": "Peacock",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879289/crystal-palace-fulham"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879289"
     },
     "EPL|401879287": {
       "id": "401879287",
@@ -165,14 +165,14 @@
         "league": "EPL"
       },
       "time": "2026-09-05T14:00Z",
-      "status": "scheduled",
-      "detail": "Sat, September 5th at 10:00 AM EDT",
-      "minute": null,
+      "status": "live",
+      "detail": "进行中 0'",
+      "minute": 0,
       "home_score": 0,
       "away_score": 0,
       "venue": "Etihad Stadium",
       "broadcast": "USA Net",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879287/coventry-city-manchester-city"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879287"
     },
     "EPL|401878780": {
       "id": "401878780",
@@ -194,14 +194,14 @@
         "league": "EPL"
       },
       "time": "2026-09-05T14:00Z",
-      "status": "scheduled",
-      "detail": "Sat, September 5th at 10:00 AM EDT",
-      "minute": null,
+      "status": "live",
+      "detail": "进行中 0'",
+      "minute": 0,
       "home_score": 0,
       "away_score": 0,
       "venue": "The City Ground",
       "broadcast": "NBCSN",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401878780/tottenham-hotspur-nottingham-forest"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401878780"
     },
     "EPL|401878781": {
       "id": "401878781",
@@ -661,7 +661,7 @@
       "status": "live",
       "detail": "进行中 0'",
       "minute": 0,
-      "home_score": 1,
+      "home_score": 2,
       "away_score": 0,
       "venue": "BayArena",
       "broadcast": "Fandango",
@@ -690,8 +690,8 @@
       "status": "live",
       "detail": "进行中 0'",
       "minute": 0,
-      "home_score": 0,
-      "away_score": 0,
+      "home_score": 1,
+      "away_score": 1,
       "venue": "BORUSSIA-PARK",
       "broadcast": "Fandango",
       "link": "https://www.espn.com/soccer/match/_/gameId/401884804"
@@ -720,7 +720,7 @@
       "detail": "进行中 0'",
       "minute": 0,
       "home_score": 0,
-      "away_score": 0,
+      "away_score": 1,
       "venue": "Home Deluxe Arena",
       "broadcast": "Fandango",
       "link": "https://www.espn.com/soccer/match/_/gameId/401884800"
@@ -777,7 +777,7 @@
       "status": "live",
       "detail": "进行中 0'",
       "minute": 0,
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 0,
       "venue": "Weserstadion",
       "broadcast": "Fandango",
@@ -1508,5 +1508,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-09-05T14:33:12.161757+00:00"
+  "updated": "2026-09-05T15:03:45.926063+00:00"
 }

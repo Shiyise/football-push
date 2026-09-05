@@ -49,14 +49,14 @@
         "league": "EPL"
       },
       "time": "2026-09-05T11:30Z",
-      "status": "scheduled",
-      "detail": "Sat, September 5th at 7:30 AM EDT",
-      "minute": null,
+      "status": "live",
+      "detail": "进行中 0'",
+      "minute": 0,
       "home_score": 0,
       "away_score": 0,
       "venue": "St. James' Park",
       "broadcast": "USA Net",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879286/afc-bournemouth-newcastle-united"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879286"
     },
     "EPL|401879311": {
       "id": "401879311",
@@ -1508,5 +1508,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-09-05T11:32:44.460131+00:00"
+  "updated": "2026-09-05T12:04:43.079121+00:00"
 }

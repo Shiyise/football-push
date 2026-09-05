@@ -1438,6 +1438,13 @@
   ],
   "notifications": [
     {
+      "time": "9月5日 12:35",
+      "kind": "reminder",
+      "title": "开赛提醒 德甲",
+      "body": "Schalke 04 vs Bayern Munich\n德国足球甲级联赛 · 9月6日 00:30\nVeltins Arena · USA Net",
+      "key": "BL1|401884801"
+    },
+    {
       "time": "9月5日 09:33",
       "kind": "reminder",
       "title": "开赛提醒 德甲",
@@ -1501,5 +1508,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-09-05T04:03:55.155974+00:00"
+  "updated": "2026-09-05T04:35:12.555473+00:00"
 }

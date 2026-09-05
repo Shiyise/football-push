@@ -223,14 +223,14 @@
         "league": "EPL"
       },
       "time": "2026-09-05T16:30Z",
-      "status": "scheduled",
-      "detail": "Sat, September 5th at 12:30 PM EDT",
-      "minute": null,
+      "status": "live",
+      "detail": "进行中 0'",
+      "minute": 0,
       "home_score": 0,
       "away_score": 0,
       "venue": "The MKM Stadium",
       "broadcast": "NBC",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401878781/aston-villa-hull-city"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401878781"
     },
     "EPL|401879291": {
       "id": "401879291",
@@ -803,14 +803,14 @@
         "league": "BL1"
       },
       "time": "2026-09-05T16:30Z",
-      "status": "scheduled",
-      "detail": "Sat, September 5th at 12:30 PM EDT",
-      "minute": null,
+      "status": "live",
+      "detail": "进行中 0'",
+      "minute": 0,
       "home_score": 0,
       "away_score": 0,
       "venue": "Veltins Arena",
       "broadcast": "USA Net",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401884801/bayern-munich-schalke-04"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401884801"
     },
     "BL1|401884803": {
       "id": "401884803",
@@ -1508,5 +1508,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-09-05T16:34:50.140391+00:00"
+  "updated": "2026-09-05T17:03:45.095830+00:00"
 }

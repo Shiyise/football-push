@@ -81,7 +81,7 @@
       "status": "live",
       "detail": "进行中 0'",
       "minute": 0,
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 0,
       "venue": "Gtech Community Stadium",
       "broadcast": "Peacock",
@@ -110,7 +110,7 @@
       "status": "live",
       "detail": "进行中 0'",
       "minute": 0,
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 1,
       "venue": "American Express Stadium",
       "broadcast": "Peacock",
@@ -139,8 +139,8 @@
       "status": "live",
       "detail": "进行中 0'",
       "minute": 0,
-      "home_score": 1,
-      "away_score": 0,
+      "home_score": 2,
+      "away_score": 2,
       "venue": "Craven Cottage",
       "broadcast": "Peacock",
       "link": "https://www.espn.com/soccer/match/_/gameId/401879289"
@@ -658,14 +658,14 @@
         "league": "BL1"
       },
       "time": "2026-09-05T13:30Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
-      "home_score": 2,
+      "status": "finished",
+      "detail": "FT",
+      "minute": null,
+      "home_score": 4,
       "away_score": 0,
       "venue": "BayArena",
       "broadcast": "Fandango",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401884806"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401884806/1-fc-union-berlin-bayer-leverkusen"
     },
     "BL1|401884804": {
       "id": "401884804",
@@ -687,14 +687,14 @@
         "league": "BL1"
       },
       "time": "2026-09-05T13:30Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
-      "home_score": 2,
-      "away_score": 1,
+      "status": "finished",
+      "detail": "FT",
+      "minute": null,
+      "home_score": 3,
+      "away_score": 4,
       "venue": "BORUSSIA-PARK",
       "broadcast": "Fandango",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401884804"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401884804/sv-elversberg-borussia-monchengladbach"
     },
     "BL1|401884800": {
       "id": "401884800",
@@ -716,14 +716,14 @@
         "league": "BL1"
       },
       "time": "2026-09-05T13:30Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
+      "status": "finished",
+      "detail": "FT",
+      "minute": null,
       "home_score": 0,
       "away_score": 1,
       "venue": "Home Deluxe Arena",
       "broadcast": "Fandango",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401884800"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401884800/sc-freiburg-sc-paderborn-07"
     },
     "BL1|401884807": {
       "id": "401884807",
@@ -745,14 +745,14 @@
         "league": "BL1"
       },
       "time": "2026-09-05T13:30Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
-      "home_score": 1,
-      "away_score": 0,
+      "status": "finished",
+      "detail": "FT",
+      "minute": null,
+      "home_score": 2,
+      "away_score": 3,
       "venue": "PreZero Arena",
       "broadcast": "Fandango",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401884807"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401884807/borussia-dortmund-tsg-hoffenheim"
     },
     "BL1|401884802": {
       "id": "401884802",
@@ -774,14 +774,14 @@
         "league": "BL1"
       },
       "time": "2026-09-05T13:30Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
-      "home_score": 1,
-      "away_score": 0,
+      "status": "finished",
+      "detail": "FT",
+      "minute": null,
+      "home_score": 3,
+      "away_score": 1,
       "venue": "Weserstadion",
       "broadcast": "Fandango",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401884802"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401884802/rb-leipzig-werder-bremen"
     },
     "BL1|401884801": {
       "id": "401884801",
@@ -1508,5 +1508,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-09-05T15:33:30.436835+00:00"
+  "updated": "2026-09-05T16:04:05.409243+00:00"
 }

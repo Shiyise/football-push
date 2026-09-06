@@ -281,14 +281,14 @@
         "league": "EPL"
       },
       "time": "2026-09-06T15:30Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
-      "home_score": 2,
-      "away_score": 1,
+      "status": "scheduled",
+      "detail": "Sun, September 6th at 11:30 AM EDT",
+      "minute": null,
+      "home_score": 0,
+      "away_score": 0,
       "venue": "Emirates Stadium",
       "broadcast": "USA Net",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879292"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879292/chelsea-arsenal"
     },
     "EPL|401879285": {
       "id": "401879285",
@@ -977,14 +977,14 @@
         "league": "BL1"
       },
       "time": "2026-09-06T13:30Z",
-      "status": "finished",
-      "detail": "FT",
-      "minute": null,
+      "status": "live",
+      "detail": "进行中 0'",
+      "minute": 0,
       "home_score": 0,
-      "away_score": 5,
+      "away_score": 3,
       "venue": "Volksparkstadion",
       "broadcast": "Fandango",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401884803/mainz-hamburg-sv"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401884803"
     },
     "BL1|401884805": {
       "id": "401884805",
@@ -1006,14 +1006,14 @@
         "league": "BL1"
       },
       "time": "2026-09-06T15:30Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
-      "home_score": 1,
-      "away_score": 3,
+      "status": "scheduled",
+      "detail": "Sun, September 6th at 11:30 AM EDT",
+      "minute": null,
+      "home_score": 0,
+      "away_score": 0,
       "venue": "Deutsche Bank Park",
       "broadcast": "Fandango",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401884805"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401884805/fc-augsburg-eintracht-frankfurt"
     },
     "BL1|401884793": {
       "id": "401884793",
@@ -1812,5 +1812,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-09-06T17:32:59.690201+00:00"
+  "updated": "2026-09-06T18:04:46.699313+00:00"
 }

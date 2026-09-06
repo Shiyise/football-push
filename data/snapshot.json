@@ -1728,6 +1728,13 @@
   ],
   "notifications": [
     {
+      "time": "9月6日 11:36",
+      "kind": "reminder",
+      "title": "开赛提醒 英超",
+      "body": "Arsenal vs Chelsea\n英格兰足球超级联赛 · 9月6日 23:30\nEmirates Stadium · USA Net",
+      "key": "EPL|401879292"
+    },
+    {
       "time": "9月6日 09:03",
       "kind": "reminder",
       "title": "开赛提醒 英超",
@@ -1805,5 +1812,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-09-06T03:04:17.850225+00:00"
+  "updated": "2026-09-06T03:36:04.061211+00:00"
 }

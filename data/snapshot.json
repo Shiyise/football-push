@@ -256,7 +256,7 @@
       "detail": "进行中 0'",
       "minute": 0,
       "home_score": 0,
-      "away_score": 0,
+      "away_score": 1,
       "venue": "Hill Dickinson Stadium",
       "broadcast": "USA Net",
       "link": "https://www.espn.com/soccer/match/_/gameId/401879291"
@@ -981,7 +981,7 @@
       "detail": "进行中 0'",
       "minute": 0,
       "home_score": 0,
-      "away_score": 0,
+      "away_score": 2,
       "venue": "Volksparkstadion",
       "broadcast": "Fandango",
       "link": "https://www.espn.com/soccer/match/_/gameId/401884803"
@@ -1812,5 +1812,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-09-06T15:04:12.130108+00:00"
+  "updated": "2026-09-06T15:34:19.780721+00:00"
 }

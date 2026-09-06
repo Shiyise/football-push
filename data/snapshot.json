@@ -281,11 +281,11 @@
         "league": "EPL"
       },
       "time": "2026-09-06T15:30Z",
-      "status": "scheduled",
-      "detail": "Sun, September 6th at 11:30 AM EDT",
+      "status": "finished",
+      "detail": "FT",
       "minute": null,
-      "home_score": 0,
-      "away_score": 0,
+      "home_score": 2,
+      "away_score": 1,
       "venue": "Emirates Stadium",
       "broadcast": "USA Net",
       "link": "https://www.espn.com/soccer/match/_/gameId/401879292/chelsea-arsenal"
@@ -977,14 +977,14 @@
         "league": "BL1"
       },
       "time": "2026-09-06T13:30Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
+      "status": "finished",
+      "detail": "FT",
+      "minute": null,
       "home_score": 0,
-      "away_score": 3,
+      "away_score": 5,
       "venue": "Volksparkstadion",
       "broadcast": "Fandango",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401884803"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401884803/mainz-hamburg-sv"
     },
     "BL1|401884805": {
       "id": "401884805",
@@ -1006,11 +1006,11 @@
         "league": "BL1"
       },
       "time": "2026-09-06T15:30Z",
-      "status": "scheduled",
-      "detail": "Sun, September 6th at 11:30 AM EDT",
+      "status": "finished",
+      "detail": "FT",
       "minute": null,
-      "home_score": 0,
-      "away_score": 0,
+      "home_score": 1,
+      "away_score": 4,
       "venue": "Deutsche Bank Park",
       "broadcast": "Fandango",
       "link": "https://www.espn.com/soccer/match/_/gameId/401884805/fc-augsburg-eintracht-frankfurt"
@@ -1812,5 +1812,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-09-06T18:04:46.699313+00:00"
+  "updated": "2026-09-06T18:36:30.317939+00:00"
 }

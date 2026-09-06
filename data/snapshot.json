@@ -284,7 +284,7 @@
       "status": "live",
       "detail": "进行中 0'",
       "minute": 0,
-      "home_score": 1,
+      "home_score": 2,
       "away_score": 1,
       "venue": "Emirates Stadium",
       "broadcast": "USA Net",
@@ -1010,7 +1010,7 @@
       "detail": "进行中 0'",
       "minute": 0,
       "home_score": 1,
-      "away_score": 1,
+      "away_score": 3,
       "venue": "Deutsche Bank Park",
       "broadcast": "Fandango",
       "link": "https://www.espn.com/soccer/match/_/gameId/401884805"
@@ -1812,5 +1812,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-09-06T17:03:27.395105+00:00"
+  "updated": "2026-09-06T17:32:59.690201+00:00"
 }

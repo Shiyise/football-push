@@ -252,14 +252,14 @@
         "league": "EPL"
       },
       "time": "2026-09-06T13:00Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
-      "home_score": 0,
-      "away_score": 1,
+      "status": "finished",
+      "detail": "FT",
+      "minute": null,
+      "home_score": 2,
+      "away_score": 2,
       "venue": "Hill Dickinson Stadium",
       "broadcast": "USA Net",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879291"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879291/manchester-united-everton"
     },
     "EPL|401879292": {
       "id": "401879292",
@@ -281,14 +281,14 @@
         "league": "EPL"
       },
       "time": "2026-09-06T15:30Z",
-      "status": "scheduled",
-      "detail": "Sun, September 6th at 11:30 AM EDT",
-      "minute": null,
+      "status": "live",
+      "detail": "进行中 0'",
+      "minute": 0,
       "home_score": 0,
-      "away_score": 0,
+      "away_score": 1,
       "venue": "Emirates Stadium",
       "broadcast": "USA Net",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879292/chelsea-arsenal"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879292"
     },
     "EPL|401879285": {
       "id": "401879285",
@@ -977,14 +977,14 @@
         "league": "BL1"
       },
       "time": "2026-09-06T13:30Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
+      "status": "finished",
+      "detail": "FT",
+      "minute": null,
       "home_score": 0,
-      "away_score": 2,
+      "away_score": 5,
       "venue": "Volksparkstadion",
       "broadcast": "Fandango",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401884803"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401884803/mainz-hamburg-sv"
     },
     "BL1|401884805": {
       "id": "401884805",
@@ -1006,14 +1006,14 @@
         "league": "BL1"
       },
       "time": "2026-09-06T15:30Z",
-      "status": "scheduled",
-      "detail": "Sun, September 6th at 11:30 AM EDT",
-      "minute": null,
+      "status": "live",
+      "detail": "进行中 0'",
+      "minute": 0,
       "home_score": 0,
       "away_score": 0,
       "venue": "Deutsche Bank Park",
       "broadcast": "Fandango",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401884805/fc-augsburg-eintracht-frankfurt"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401884805"
     },
     "BL1|401884793": {
       "id": "401884793",
@@ -1812,5 +1812,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-09-06T15:34:19.780721+00:00"
+  "updated": "2026-09-06T16:04:21.334432+00:00"
 }

@@ -26,7 +26,7 @@
       "home_score": 0,
       "away_score": 0,
       "venue": "Vitality Stadium",
-      "broadcast": "",
+      "broadcast": "Peacock",
       "link": "https://www.espn.com/soccer/match/_/gameId/401879285/brentford-afc-bournemouth"
     },
     "EPL|401879284": {
@@ -55,7 +55,7 @@
       "home_score": 0,
       "away_score": 0,
       "venue": "Villa Park",
-      "broadcast": "",
+      "broadcast": "Peacock",
       "link": "https://www.espn.com/soccer/match/_/gameId/401879284/nottingham-forest-aston-villa"
     },
     "EPL|401879283": {
@@ -84,7 +84,7 @@
       "home_score": 0,
       "away_score": 0,
       "venue": "Stamford Bridge",
-      "broadcast": "",
+      "broadcast": "USA Net",
       "link": "https://www.espn.com/soccer/match/_/gameId/401879283/hull-city-chelsea"
     },
     "EPL|401879281": {
@@ -142,7 +142,7 @@
       "home_score": 0,
       "away_score": 0,
       "venue": "Anfield",
-      "broadcast": "",
+      "broadcast": "Peacock",
       "link": "https://www.espn.com/soccer/match/_/gameId/401879279/fulham-liverpool"
     },
     "EPL|401879277": {
@@ -200,7 +200,7 @@
       "home_score": 0,
       "away_score": 0,
       "venue": "Stadium of Light",
-      "broadcast": "",
+      "broadcast": "USA Net",
       "link": "https://www.espn.com/soccer/match/_/gameId/401878779/arsenal-sunderland"
     },
     "EPL|401879282": {
@@ -229,7 +229,7 @@
       "home_score": 0,
       "away_score": 0,
       "venue": "Coventry Building Society Arena",
-      "broadcast": "",
+      "broadcast": "USA Net",
       "link": "https://www.espn.com/soccer/match/_/gameId/401879282/brighton-hove-albion-coventry-city"
     },
     "EPL|401879278": {
@@ -258,7 +258,7 @@
       "home_score": 0,
       "away_score": 0,
       "venue": "Old Trafford",
-      "broadcast": "",
+      "broadcast": "Peacock",
       "link": "https://www.espn.com/soccer/match/_/gameId/401879278/manchester-city-manchester-united"
     },
     "EPL|401879280": {
@@ -287,7 +287,7 @@
       "home_score": 0,
       "away_score": 0,
       "venue": "Elland Road",
-      "broadcast": "",
+      "broadcast": "USA Net",
       "link": "https://www.espn.com/soccer/match/_/gameId/401879280/newcastle-united-leeds-united"
     },
     "EPL|401879275": {
@@ -664,7 +664,7 @@
       "home_score": 0,
       "away_score": 0,
       "venue": "WWK Arena",
-      "broadcast": "",
+      "broadcast": "Fandango",
       "link": "https://www.espn.com/soccer/match/_/gameId/401884795/bayer-leverkusen-fc-augsburg"
     },
     "BL1|401884794": {
@@ -693,7 +693,7 @@
       "home_score": 0,
       "away_score": 0,
       "venue": "MEWA ARENA",
-      "broadcast": "",
+      "broadcast": "Fandango",
       "link": "https://www.espn.com/soccer/match/_/gameId/401884794/eintracht-frankfurt-mainz"
     },
     "BL1|401884796": {
@@ -751,7 +751,7 @@
       "home_score": 0,
       "away_score": 0,
       "venue": "PreZero Arena",
-      "broadcast": "",
+      "broadcast": "Fandango",
       "link": "https://www.espn.com/soccer/match/_/gameId/401884797/vfb-stuttgart-tsg-hoffenheim"
     },
     "BL1|401884792": {
@@ -809,7 +809,7 @@
       "home_score": 0,
       "away_score": 0,
       "venue": "Red Bull Arena",
-      "broadcast": "",
+      "broadcast": "Fandango",
       "link": "https://www.espn.com/soccer/match/_/gameId/401884798/hamburg-sv-rb-leipzig"
     },
     "BL1|401884791": {
@@ -838,7 +838,7 @@
       "home_score": 0,
       "away_score": 0,
       "venue": "URSAPHARM-Arena an der Kaiserlinde",
-      "broadcast": "",
+      "broadcast": "USA Net",
       "link": "https://www.espn.com/soccer/match/_/gameId/401884791/bayern-munich-sv-elversberg"
     },
     "BL1|401884790": {
@@ -1464,5 +1464,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-09-09T01:37:10.492247+00:00"
+  "updated": "2026-09-09T02:04:22.245535+00:00"
 }

@@ -113,7 +113,7 @@
       "home_score": 0,
       "away_score": 0,
       "venue": "Selhurst Park",
-      "broadcast": "",
+      "broadcast": "Peacock",
       "link": "https://www.espn.com/soccer/match/_/gameId/401879281/ipswich-town-crystal-palace"
     },
     "EPL|401879279": {
@@ -171,7 +171,7 @@
       "home_score": 0,
       "away_score": 0,
       "venue": "Tottenham Hotspur Stadium",
-      "broadcast": "",
+      "broadcast": "NBC",
       "link": "https://www.espn.com/soccer/match/_/gameId/401879277/everton-tottenham-hotspur"
     },
     "EPL|401878779": {
@@ -635,7 +635,7 @@
       "home_score": 0,
       "away_score": 0,
       "venue": "Signal Iduna Park",
-      "broadcast": "",
+      "broadcast": "Fandango",
       "link": "https://www.espn.com/soccer/match/_/gameId/401884799/sc-paderborn-07-borussia-dortmund"
     },
     "BL1|401884795": {
@@ -1464,5 +1464,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-09-09T08:37:25.310594+00:00"
+  "updated": "2026-09-09T09:04:13.737092+00:00"
 }

@@ -604,7 +604,7 @@
       "detail": "进行中 0'",
       "minute": 0,
       "home_score": 0,
-      "away_score": 0,
+      "away_score": 1,
       "venue": "Stadion An der Alten Försterei",
       "broadcast": "Fandango",
       "link": "https://www.espn.com/soccer/match/_/gameId/401884793"
@@ -1464,5 +1464,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-09-11T19:03:35.129222+00:00"
+  "updated": "2026-09-11T19:34:03.900330+00:00"
 }

@@ -1380,6 +1380,13 @@
   ],
   "notifications": [
     {
+      "time": "9月12日 15:03",
+      "kind": "reminder",
+      "title": "开赛提醒 英超",
+      "body": "Sunderland vs Arsenal\n英格兰足球超级联赛 · 9月13日 03:00\nStadium of Light · USA Net",
+      "key": "EPL|401878779"
+    },
+    {
       "time": "9月12日 10:04",
       "kind": "reminder",
       "title": "开赛提醒 英超",
@@ -1478,5 +1485,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-09-12T06:38:57.501718+00:00"
+  "updated": "2026-09-12T07:03:35.125084+00:00"
 }

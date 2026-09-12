@@ -20,14 +20,14 @@
         "league": "EPL"
       },
       "time": "2026-09-12T14:00Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
-      "home_score": 0,
-      "away_score": 1,
+      "status": "finished",
+      "detail": "FT",
+      "minute": null,
+      "home_score": 2,
+      "away_score": 2,
       "venue": "Vitality Stadium",
       "broadcast": "Peacock",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879285"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879285/brentford-afc-bournemouth"
     },
     "EPL|401879284": {
       "id": "401879284",
@@ -49,14 +49,14 @@
         "league": "EPL"
       },
       "time": "2026-09-12T14:00Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
-      "home_score": 0,
-      "away_score": 0,
+      "status": "finished",
+      "detail": "FT",
+      "minute": null,
+      "home_score": 1,
+      "away_score": 2,
       "venue": "Villa Park",
       "broadcast": "Peacock",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879284"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879284/nottingham-forest-aston-villa"
     },
     "EPL|401879283": {
       "id": "401879283",
@@ -78,14 +78,14 @@
         "league": "EPL"
       },
       "time": "2026-09-12T14:00Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
-      "home_score": 1,
+      "status": "finished",
+      "detail": "FT",
+      "minute": null,
+      "home_score": 2,
       "away_score": 2,
       "venue": "Stamford Bridge",
       "broadcast": "USA Net",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879283"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879283/hull-city-chelsea"
     },
     "EPL|401879281": {
       "id": "401879281",
@@ -107,14 +107,14 @@
         "league": "EPL"
       },
       "time": "2026-09-12T14:00Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
-      "home_score": 1,
-      "away_score": 1,
+      "status": "finished",
+      "detail": "FT",
+      "minute": null,
+      "home_score": 2,
+      "away_score": 3,
       "venue": "Selhurst Park",
       "broadcast": "Peacock",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879281"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879281/ipswich-town-crystal-palace"
     },
     "EPL|401879279": {
       "id": "401879279",
@@ -136,14 +136,14 @@
         "league": "EPL"
       },
       "time": "2026-09-12T14:00Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
+      "status": "finished",
+      "detail": "FT",
+      "minute": null,
       "home_score": 0,
       "away_score": 0,
       "venue": "Anfield",
       "broadcast": "Peacock",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879279"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879279/fulham-liverpool"
     },
     "EPL|401879277": {
       "id": "401879277",
@@ -629,14 +629,14 @@
         "league": "BL1"
       },
       "time": "2026-09-12T13:30Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
-      "home_score": 1,
+      "status": "finished",
+      "detail": "FT",
+      "minute": null,
+      "home_score": 3,
       "away_score": 0,
       "venue": "Signal Iduna Park",
       "broadcast": "Fandango",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401884799"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401884799/sc-paderborn-07-borussia-dortmund"
     },
     "BL1|401884795": {
       "id": "401884795",
@@ -658,14 +658,14 @@
         "league": "BL1"
       },
       "time": "2026-09-12T13:30Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
-      "home_score": 0,
-      "away_score": 1,
+      "status": "finished",
+      "detail": "FT",
+      "minute": null,
+      "home_score": 2,
+      "away_score": 2,
       "venue": "WWK Arena",
       "broadcast": "Fandango",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401884795"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401884795/bayer-leverkusen-fc-augsburg"
     },
     "BL1|401884794": {
       "id": "401884794",
@@ -687,14 +687,14 @@
         "league": "BL1"
       },
       "time": "2026-09-12T13:30Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
-      "home_score": 0,
-      "away_score": 2,
+      "status": "finished",
+      "detail": "FT",
+      "minute": null,
+      "home_score": 1,
+      "away_score": 3,
       "venue": "MEWA ARENA",
       "broadcast": "Fandango",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401884794"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401884794/eintracht-frankfurt-mainz"
     },
     "BL1|401884796": {
       "id": "401884796",
@@ -716,14 +716,14 @@
         "league": "BL1"
       },
       "time": "2026-09-12T13:30Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
-      "home_score": 2,
+      "status": "finished",
+      "detail": "FT",
+      "minute": null,
+      "home_score": 5,
       "away_score": 0,
       "venue": "Europa-Park Stadion",
       "broadcast": "Fandango",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401884796"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401884796/borussia-monchengladbach-sc-freiburg"
     },
     "BL1|401884797": {
       "id": "401884797",
@@ -745,14 +745,14 @@
         "league": "BL1"
       },
       "time": "2026-09-12T13:30Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
-      "home_score": 1,
-      "away_score": 0,
+      "status": "finished",
+      "detail": "FT",
+      "minute": null,
+      "home_score": 2,
+      "away_score": 1,
       "venue": "PreZero Arena",
       "broadcast": "Fandango",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401884797"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401884797/vfb-stuttgart-tsg-hoffenheim"
     },
     "BL1|401884792": {
       "id": "401884792",
@@ -1485,5 +1485,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-09-12T16:34:55.490339+00:00"
+  "updated": "2026-09-12T17:03:35.046021+00:00"
 }

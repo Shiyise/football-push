@@ -194,14 +194,14 @@
         "league": "EPL"
       },
       "time": "2026-09-12T19:00Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
+      "status": "finished",
+      "detail": "FT",
+      "minute": null,
       "home_score": 0,
-      "away_score": 1,
+      "away_score": 2,
       "venue": "Stadium of Light",
       "broadcast": "USA Net",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401878779"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401878779/arsenal-sunderland"
     },
     "EPL|401879282": {
       "id": "401879282",
@@ -1485,5 +1485,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-09-12T22:04:02.513533+00:00"
+  "updated": "2026-09-12T22:33:29.927792+00:00"
 }

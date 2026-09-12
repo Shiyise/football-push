@@ -777,8 +777,8 @@
       "status": "live",
       "detail": "进行中 0'",
       "minute": 0,
-      "home_score": 0,
-      "away_score": 0,
+      "home_score": 1,
+      "away_score": 1,
       "venue": "RheinEnergieStadion",
       "broadcast": "Fandango",
       "link": "https://www.espn.com/soccer/match/_/gameId/401884792"
@@ -1485,5 +1485,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-09-12T18:05:07.081266+00:00"
+  "updated": "2026-09-12T18:36:07.935804+00:00"
 }

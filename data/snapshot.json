@@ -165,14 +165,14 @@
         "league": "EPL"
       },
       "time": "2026-09-12T16:30Z",
-      "status": "scheduled",
-      "detail": "Sat, September 12th at 12:30 PM EDT",
-      "minute": null,
+      "status": "live",
+      "detail": "进行中 0'",
+      "minute": 0,
       "home_score": 0,
       "away_score": 0,
       "venue": "Tottenham Hotspur Stadium",
       "broadcast": "NBC",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879277/everton-tottenham-hotspur"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879277"
     },
     "EPL|401878779": {
       "id": "401878779",
@@ -774,14 +774,14 @@
         "league": "BL1"
       },
       "time": "2026-09-12T16:30Z",
-      "status": "scheduled",
-      "detail": "Sat, September 12th at 12:30 PM EDT",
-      "minute": null,
-      "home_score": 0,
+      "status": "live",
+      "detail": "进行中 0'",
+      "minute": 0,
+      "home_score": 1,
       "away_score": 0,
       "venue": "RheinEnergieStadion",
       "broadcast": "Fandango",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401884792/werder-bremen-fc-cologne"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401884792"
     },
     "BL1|401884798": {
       "id": "401884798",
@@ -1485,5 +1485,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-09-12T17:03:35.046021+00:00"
+  "updated": "2026-09-12T17:33:21.112028+00:00"
 }

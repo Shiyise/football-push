@@ -1380,6 +1380,13 @@
   ],
   "notifications": [
     {
+      "time": "9月12日 10:04",
+      "kind": "reminder",
+      "title": "开赛提醒 英超",
+      "body": "Liverpool vs Fulham\n英格兰足球超级联赛 · 9月12日 22:00\nAnfield · Peacock",
+      "key": "EPL|401879279"
+    },
+    {
       "time": "9月12日 09:34",
       "kind": "reminder",
       "title": "开赛提醒 德甲",
@@ -1471,5 +1478,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-09-12T01:34:10.593628+00:00"
+  "updated": "2026-09-12T02:04:27.311372+00:00"
 }

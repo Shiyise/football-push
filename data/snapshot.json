@@ -223,14 +223,14 @@
         "league": "EPL"
       },
       "time": "2026-09-13T13:00Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
+      "status": "scheduled",
+      "detail": "Sun, September 13th at 9:00 AM EDT",
+      "minute": null,
       "home_score": 0,
       "away_score": 0,
       "venue": "Coventry Building Society Arena",
       "broadcast": "USA Net",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879282"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879282/brighton-hove-albion-coventry-city"
     },
     "EPL|401879278": {
       "id": "401879278",
@@ -1499,5 +1499,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-09-13T13:33:55.281819+00:00"
+  "updated": "2026-09-13T14:04:03.141536+00:00"
 }

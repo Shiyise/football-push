@@ -227,7 +227,7 @@
       "detail": "进行中 0'",
       "minute": 0,
       "home_score": 0,
-      "away_score": 1,
+      "away_score": 3,
       "venue": "Coventry Building Society Arena",
       "broadcast": "USA Net",
       "link": "https://www.espn.com/soccer/match/_/gameId/401879282"
@@ -1499,5 +1499,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-09-13T14:34:44.884733+00:00"
+  "updated": "2026-09-13T15:04:11.149338+00:00"
 }

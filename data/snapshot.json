@@ -256,7 +256,7 @@
       "detail": "进行中 0'",
       "minute": 0,
       "home_score": 0,
-      "away_score": 0,
+      "away_score": 1,
       "venue": "Old Trafford",
       "broadcast": "NBCSN",
       "link": "https://www.espn.com/soccer/match/_/gameId/401879278"
@@ -835,7 +835,7 @@
       "status": "live",
       "detail": "进行中 0'",
       "minute": 0,
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 1,
       "venue": "URSAPHARM-Arena an der Kaiserlinde",
       "broadcast": "USA Net",
@@ -1499,5 +1499,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-09-13T17:03:53.791416+00:00"
+  "updated": "2026-09-13T17:34:12.318649+00:00"
 }

@@ -223,14 +223,14 @@
         "league": "EPL"
       },
       "time": "2026-09-13T13:00Z",
-      "status": "scheduled",
-      "detail": "Sun, September 13th at 9:00 AM EDT",
-      "minute": null,
+      "status": "live",
+      "detail": "进行中 0'",
+      "minute": 0,
       "home_score": 0,
-      "away_score": 0,
+      "away_score": 1,
       "venue": "Coventry Building Society Arena",
       "broadcast": "USA Net",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879282/brighton-hove-albion-coventry-city"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879282"
     },
     "EPL|401879278": {
       "id": "401879278",
@@ -803,14 +803,14 @@
         "league": "BL1"
       },
       "time": "2026-09-13T13:30Z",
-      "status": "scheduled",
-      "detail": "Sun, September 13th at 9:30 AM EDT",
-      "minute": null,
-      "home_score": 0,
+      "status": "live",
+      "detail": "进行中 0'",
+      "minute": 0,
+      "home_score": 2,
       "away_score": 0,
       "venue": "Red Bull Arena",
       "broadcast": "Fandango",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401884798/hamburg-sv-rb-leipzig"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401884798"
     },
     "BL1|401884791": {
       "id": "401884791",
@@ -1499,5 +1499,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-09-13T14:04:03.141536+00:00"
+  "updated": "2026-09-13T14:34:44.884733+00:00"
 }

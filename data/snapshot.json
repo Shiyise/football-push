@@ -252,14 +252,14 @@
         "league": "EPL"
       },
       "time": "2026-09-13T15:30Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
+      "status": "finished",
+      "detail": "FT",
+      "minute": null,
       "home_score": 0,
       "away_score": 1,
       "venue": "Old Trafford",
       "broadcast": "NBCSN",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879278"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879278/manchester-city-manchester-united"
     },
     "EPL|401879280": {
       "id": "401879280",
@@ -832,14 +832,14 @@
         "league": "BL1"
       },
       "time": "2026-09-13T15:30Z",
-      "status": "live",
-      "detail": "进行中 0'",
-      "minute": 0,
+      "status": "finished",
+      "detail": "FT",
+      "minute": null,
       "home_score": 1,
-      "away_score": 1,
+      "away_score": 2,
       "venue": "URSAPHARM-Arena an der Kaiserlinde",
       "broadcast": "USA Net",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401884791"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401884791/bayern-munich-sv-elversberg"
     },
     "BL1|401884790": {
       "id": "401884790",
@@ -1499,5 +1499,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-09-13T17:34:12.318649+00:00"
+  "updated": "2026-09-13T18:04:40.827284+00:00"
 }

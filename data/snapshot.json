@@ -281,14 +281,14 @@
         "league": "EPL"
       },
       "time": "2026-09-14T19:00Z",
-      "status": "scheduled",
-      "detail": "Mon, September 14th at 3:00 PM EDT",
-      "minute": null,
+      "status": "live",
+      "detail": "进行中 0'",
+      "minute": 0,
       "home_score": 0,
       "away_score": 0,
       "venue": "Elland Road",
       "broadcast": "USA Net",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401879280/newcastle-united-leeds-united"
+      "link": "https://www.espn.com/soccer/match/_/gameId/401879280"
     },
     "EPL|401879275": {
       "id": "401879275",
@@ -1470,5 +1470,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-09-14T19:36:51.295929+00:00"
+  "updated": "2026-09-14T20:04:31.523083+00:00"
 }

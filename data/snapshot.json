@@ -580,35 +580,6 @@
       "broadcast": "",
       "link": "https://www.espn.com/soccer/match/_/gameId/401878777/manchester-united-fulham"
     },
-    "BL1|401884793": {
-      "id": "401884793",
-      "league": "BL1",
-      "league_name": "德国足球甲级联赛",
-      "league_short": "德甲",
-      "home": {
-        "id": "598",
-        "name": "1. FC Union Berlin",
-        "short": "Union Berlin",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
-        "league": "BL1"
-      },
-      "away": {
-        "id": "133",
-        "name": "Schalke 04",
-        "short": "Schalke",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
-        "league": "BL1"
-      },
-      "time": "2026-09-11T18:30Z",
-      "status": "finished",
-      "detail": "FT",
-      "minute": null,
-      "home_score": 1,
-      "away_score": 3,
-      "venue": "Stadion An der Alten Försterei",
-      "broadcast": "Fandango",
-      "link": "https://www.espn.com/soccer/match/_/gameId/401884793/schalke-04-1-fc-union-berlin"
-    },
     "BL1|401884799": {
       "id": "401884799",
       "league": "BL1",
@@ -1499,5 +1470,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-09-13T23:34:14.678321+00:00"
+  "updated": "2026-09-14T00:06:17.483391+00:00"
 }

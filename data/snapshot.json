@@ -284,7 +284,7 @@
       "status": "live",
       "detail": "进行中 0'",
       "minute": 0,
-      "home_score": 0,
+      "home_score": 3,
       "away_score": 0,
       "venue": "Elland Road",
       "broadcast": "USA Net",
@@ -1470,5 +1470,5 @@
       "key": "EPL|401879301"
     }
   ],
-  "updated": "2026-09-14T20:04:31.523083+00:00"
+  "updated": "2026-09-14T20:36:39.331321+00:00"
 }
